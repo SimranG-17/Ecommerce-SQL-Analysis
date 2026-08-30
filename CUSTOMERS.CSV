@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,age,gender,signup_date,loyalty_tier,city,state,country,annual_income_inr,acquisition_channel,is_inactive
+101742,Aditya,Malhotra,34,,16-12-2025,Bronze,Mumbai,Maharashtra,India,79500,Email,FALSE
+102684,Ananya,Kumar,31,Female,15-05-2024,Bronze,Delhi,Delhi,India,35600,Referral,FALSE
+103639,Nisha,Bansal,38,Female,02-09-2025,Bronze,Kochi,Kerala,India,77600,Organic Search,FALSE
+103683,Vivaan,Sethi,20,Female,06-10-2025,Bronze,Mumbai,Maharashtra,India,115400,Affiliate,FALSE
+104587,Ishaan,Kumar,37,Female,28-03-2025,Silver,Kolkata,West Bengal,India,,Affiliate,FALSE
+104998,Meera,Malhotra,30,Male,09-06-2025,Silver,Kolkata,West Bengal,India,67400,Organic Search,FALSE
+106421,Karan,Sethi,45,Female,15-11-2025,Bronze,Chandigarh,Chandigarh,India,85800,Social Media,FALSE
+106711,Aanya,Desai,22,Prefer not to say,09-01-2024,Bronze,Delhi,Delhi,India,68200,Affiliate,FALSE
+107212,Rahul,Khanna,33,Male,14-03-2024,Bronze,Ahmedabad,Gujarat,India,127400,Paid Search,FALSE
+108459,Reyansh,Sethi,26,Female,26-01-2024,Silver,Delhi,Delhi,India,125600,Organic Search,FALSE
+108654,Arjun,Iyer,42,Male,22-09-2025,Bronze,Ahmedabad,Gujarat,India,49600,Referral,FALSE
+108961,Karan,Pillai,49,Male,10-11-2025,Bronze,Delhi,Delhi,India,33300,Organic Search,FALSE
+110791,Kabir,Saxena,30,Female,22-04-2025,Bronze,Kochi,Kerala,India,42400,Social Media,FALSE
+111331,Tara,Rao,42,Prefer not to say,27-11-2024,Silver,Pune,Maharashtra,India,79100,Referral,FALSE
+111790,Isha,Khanna,31,Male,27-12-2024,Bronze,Lucknow,Uttar Pradesh,India,,Referral,FALSE
+114374,Tara,Sharma,21,Female,20-10-2025,Bronze,Pune,Maharashtra,India,51400,Referral,FALSE
+115496,Ananya,Gupta,40,Female,02-10-2025,Bronze,Bengaluru,Karnataka,India,33200,Organic Search,FALSE
+117219,Diya,Agarwal,35,Male,09-08-2025,Silver,Delhi,Delhi,India,51000,Affiliate,FALSE
+117620,Ananya,Khanna,20,Female,19-12-2025,Bronze,Mumbai,Maharashtra,India,75300,Affiliate,FALSE
+117673,Avni,Choudhary,34,Male,18-08-2024,Bronze,Pune,Maharashtra,India,61800,Social Media,FALSE
+118062,Rahul,Banerjee,33,Female,24-10-2025,Bronze,Jaipur,Rajasthan,India,67500,Direct,FALSE
+118397,Kabir,Gupta,45,Female,22-01-2025,Bronze,Kolkata,West Bengal,India,94600,,FALSE
+118572,Kavya,Iyer,21,Male,13-09-2024,Bronze,Indore,Madhya Pradesh,India,23800,Organic Search,FALSE
+119671,Pooja,Iyer,18,Female,09-10-2025,Silver,Mumbai,Maharashtra,India,72500,Paid Search,FALSE
+120839,Aarav,Chopra,49,Male,28-03-2025,Bronze,Chennai,Tamil Nadu,India,47200,Social Media,TRUE
+121516,Aarav,Agarwal,23,Female,27-04-2025,Silver,Mumbai,Maharashtra,India,123200,Email,FALSE
+121617,Ishaan,Shah,18,Female,15-10-2024,Bronze,Bengaluru,Karnataka,India,148800,Referral,FALSE
+121699,Rohan,Khanna,33,Female,14-06-2025,Bronze,Noida,Uttar Pradesh,India,64100,Social Media,TRUE
+122717,Pooja,Patel,30,Female,22-10-2024,Silver,Hyderabad,Telangana,India,72000,Organic Search,FALSE
+123983,Nisha,Shah,27,Female,11-09-2024,Silver,Pune,Maharashtra,India,66200,Social Media,FALSE
+124644,Isha,Bansal,47,Female,13-10-2025,Bronze,Hyderabad,Telangana,India,97100,Social Media,FALSE
+124709,Sneha,Malhotra,24,Male,22-06-2025,Silver,Chennai,Tamil Nadu,India,62500,Organic Search,TRUE
+125726,Vivaan,Verma,45,Female,14-04-2025,Bronze,Delhi,Delhi,India,65300,Organic Search,FALSE
+125870,Riya,Bansal,46,Male,20-01-2025,Bronze,Bengaluru,Karnataka,India,51200,Referral,TRUE
+126979,Meera,Sethi,18,,25-07-2025,Bronze,Mumbai,Maharashtra,India,52700,Social Media,FALSE
+129238,Reyansh,Saxena,46,Female,29-02-2024,Bronze,Hyderabad,Telangana,India,114000,Organic Search,FALSE
+131624,Kavya,Jain,18,Prefer not to say,28-09-2024,Bronze,Kolkata,West Bengal,India,94400,Organic Search,FALSE
+132368,Sneha,Khanna,30,Male,19-08-2024,Bronze,Hyderabad,Telangana,India,46000,Paid Search,FALSE
+133161,Pooja,Sharma,34,Male,16-07-2024,Bronze,Ahmedabad,Gujarat,India,84100,Social Media,FALSE
+136057,Vivaan,Chopra,41,Female,04-02-2024,Bronze,Mumbai,Maharashtra,India,26700,Social Media,TRUE
+136802,Tara,Banerjee,19,Female,29-01-2024,Silver,Ahmedabad,Gujarat,India,67100,Social Media,FALSE
+136962,Kiara,Rao,26,Female,28-12-2025,Bronze,Bhopal,Madhya Pradesh,India,51500,Social Media,FALSE
+137807,Kavya,Sharma,48,Female,02-01-2025,Bronze,Bengaluru,Karnataka,India,,Affiliate,FALSE
+139332,Karan,Mishra,40,Male,11-10-2025,Bronze,Surat,Gujarat,India,40500,Organic Search,TRUE
+141597,Zoya,Chopra,33,Female,19-03-2025,Silver,Coimbatore,Tamil Nadu,India,61500,Paid Search,FALSE
+145887,Kavya,Mehta,23,Male,21-12-2024,Silver,Ahmedabad,Gujarat,India,72100,,FALSE
+145945,Arjun,Menon,35,Female,26-08-2024,Silver,Bengaluru,Karnataka,India,98700,Organic Search,FALSE
+146352,Vivaan,Khanna,28,Male,12-10-2025,Bronze,Pune,Maharashtra,India,61800,Referral,FALSE
+146800,Riya,Verma,44,Female,21-07-2024,Bronze,Pune,Maharashtra,India,108000,,FALSE
+147630,Aarav,Joshi,26,Female,04-10-2025,Bronze,Kolkata,West Bengal,India,149400,Social Media,FALSE
+148035,Simran,Patel,32,Male,30-12-2025,Bronze,Mumbai,Maharashtra,India,64700,Referral,FALSE
+150522,Ananya,Choudhary,28,Male,21-05-2024,Bronze,Jaipur,Rajasthan,India,46300,Social Media,FALSE
+151852,Aarav,Sethi,37,Prefer not to say,30-07-2024,Bronze,Bengaluru,Karnataka,India,,Email,FALSE
+152077,Arjun,Mehta,37,Female,12-12-2024,Bronze,Kolkata,West Bengal,India,64300,Social Media,FALSE
+153016,Priya,Gupta,34,Female,08-04-2025,Bronze,Surat,Gujarat,India,78400,Paid Search,FALSE
+156320,Neha,Rao,40,Female,08-03-2024,Bronze,Pune,Maharashtra,India,30500,Direct,FALSE
+156356,Sneha,Kumar,29,Prefer not to say,19-12-2025,Silver,Hyderabad,Telangana,India,69900,Social Media,FALSE
+157085,Neha,Patel,30,Male,20-11-2024,Silver,Mumbai,Maharashtra,India,144800,Social Media,FALSE
+158692,Neha,Pillai,23,Male,24-03-2025,Bronze,Surat,Gujarat,India,56500,Direct,FALSE
+159212,Sara,Mehta,33,Male,27-04-2024,Bronze,Hyderabad,Telangana,India,80400,Affiliate,FALSE
+159779,Pooja,Kumar,44,Female,22-07-2025,Bronze,Pune,Maharashtra,India,29900,Social Media,FALSE
+160754,Nisha,Sethi,39,Male,23-01-2024,Bronze,Mumbai,Maharashtra,India,131200,Affiliate,FALSE
+161294,Vivaan,Malhotra,54,Prefer not to say,03-01-2024,Gold,Bengaluru,Karnataka,India,45600,Social Media,FALSE
+166032,Rohan,Sharma,30,Female,02-02-2025,Silver,Mumbai,Maharashtra,India,,Email,FALSE
+166979,Kavya,Mishra,54,Female,25-09-2024,Bronze,Mumbai,Maharashtra,India,48400,Organic Search,FALSE
+167529,Riya,Mehta,34,Male,30-03-2024,Bronze,Mumbai,Maharashtra,India,52700,Paid Search,FALSE
+167829,Ishaan,Sethi,28,Female,27-05-2024,Silver,Chandigarh,Chandigarh,India,60300,Organic Search,FALSE
+168648,Tara,Iyer,30,Male,15-01-2025,Silver,Pune,Maharashtra,India,57700,Paid Search,FALSE
+168793,Aditya,Pillai,31,Male,23-01-2024,Bronze,Delhi,Delhi,India,31000,Organic Search,FALSE
+169269,Sara,Singh,35,Male,08-09-2024,Bronze,Pune,Maharashtra,India,65200,Organic Search,FALSE
+169957,Sana,Sharma,29,Male,06-12-2024,Bronze,Surat,Gujarat,India,51700,Paid Search,FALSE
+170738,Rohan,Bansal,35,,24-01-2024,Bronze,Surat,Gujarat,India,51400,Organic Search,FALSE
+170875,Kiara,Agarwal,42,Male,12-04-2024,Gold,Mumbai,Maharashtra,India,45700,Paid Search,FALSE
+171842,Aanya,Sharma,35,Male,12-06-2025,Bronze,Mumbai,Maharashtra,India,22500,Social Media,FALSE
+172816,Karan,Mehta,58,Male,08-08-2025,Bronze,Mumbai,Maharashtra,India,148800,Paid Search,FALSE
+173309,Tara,Sharma,19,Female,20-02-2024,Bronze,Pune,Maharashtra,India,28600,Email,FALSE
+174402,Riya,Khanna,36,Non-binary,12-08-2025,Bronze,Pune,Maharashtra,India,64600,Social Media,FALSE
+178131,Sana,Joshi,45,Male,20-09-2025,Bronze,Bengaluru,Karnataka,India,113400,Paid Search,TRUE
+178252,Aditya,Banerjee,31,Male,23-08-2024,Bronze,Ahmedabad,Gujarat,India,115600,Paid Search,FALSE
+178738,Aanya,Saxena,37,Male,13-11-2025,Silver,Mumbai,Maharashtra,India,,Organic Search,FALSE
+181485,Diya,Rao,41,Female,12-11-2024,Bronze,Bengaluru,Karnataka,India,159900,Social Media,FALSE
+183520,Kavya,Reddy,22,Female,14-09-2025,Silver,Mumbai,Maharashtra,India,111400,Paid Search,FALSE
+184790,Avni,Malhotra,39,Male,03-06-2024,Bronze,Noida,Uttar Pradesh,India,216700,Referral,FALSE
+186360,Rohan,Kumar,27,Prefer not to say,27-07-2025,Bronze,Kolkata,West Bengal,India,78100,Paid Search,FALSE
+187464,Ananya,Joshi,39,Male,23-06-2025,Bronze,Delhi,Delhi,India,29700,Social Media,FALSE
+189025,Sara,Khanna,50,Female,30-10-2025,Bronze,Bengaluru,Karnataka,India,61900,Affiliate,FALSE
+191926,Maya,Patel,32,Prefer not to say,17-07-2025,Bronze,Mumbai,Maharashtra,India,49200,Direct,FALSE
+192285,Aanya,Saxena,29,Male,21-08-2025,Bronze,Bengaluru,Karnataka,India,23800,Email,FALSE
+192903,Kavya,Desai,37,Male,07-04-2024,Silver,Bengaluru,Karnataka,India,119600,Referral,FALSE
+192967,Nisha,Bansal,18,Female,30-09-2024,Bronze,Delhi,Delhi,India,63000,Paid Search,FALSE
+193934,Neha,Khanna,42,Female,15-12-2024,Silver,Hyderabad,Telangana,India,74800,Organic Search,FALSE
+195312,Neha,Rao,18,Male,09-03-2024,Silver,Bengaluru,Karnataka,India,157300,Paid Search,FALSE
+196350,Simran,Nair,39,Male,11-03-2024,Gold,Mumbai,Maharashtra,India,40600,Referral,FALSE
+196393,Aanya,Mehta,44,Female,30-12-2025,Bronze,Kochi,Kerala,India,,Email,FALSE
+196770,Rohan,Jain,25,Female,25-10-2024,Bronze,Kolkata,West Bengal,India,,Social Media,FALSE
+197411,Diya,Nair,18,Male,18-11-2024,Bronze,Ahmedabad,Gujarat,India,135500,Affiliate,FALSE
+197501,Ananya,Gupta,43,Female,15-11-2024,Bronze,Delhi,Delhi,India,,Social Media,FALSE
+198102,Priya,Jain,18,Male,28-03-2025,Bronze,Ahmedabad,Gujarat,India,94100,Paid Search,FALSE
+199346,Meera,Desai,51,Male,20-01-2024,Bronze,Hyderabad,Telangana,India,128000,,FALSE
+199938,Tara,Patel,58,Female,10-07-2024,Silver,Kolkata,West Bengal,India,134700,Organic Search,TRUE
+201481,Aditya,Verma,50,Male,09-04-2025,Bronze,Delhi,Delhi,India,75100,Social Media,FALSE
+201571,Aarav,Verma,20,Male,25-11-2025,Bronze,Bengaluru,Karnataka,India,57800,Organic Search,FALSE
+202824,Vivaan,Pillai,20,Male,22-02-2025,Bronze,Chennai,Tamil Nadu,India,31700,Email,FALSE
+203119,Pooja,Banerjee,18,Female,06-11-2024,Silver,Delhi,Delhi,India,52200,Organic Search,FALSE
+203984,Karan,Kumar,23,Male,05-06-2024,Silver,Chennai,Tamil Nadu,India,98600,Organic Search,TRUE
+204535,Riya,Iyer,32,Male,11-05-2025,Silver,Pune,Maharashtra,India,97000,Organic Search,FALSE
+206289,Pooja,Banerjee,45,Female,10-09-2025,Silver,Chennai,Tamil Nadu,India,47700,Referral,FALSE
+206493,Ishaan,Joshi,44,Male,19-04-2025,Silver,Hyderabad,Telangana,India,93200,Affiliate,FALSE
+206959,Neha,Mehta,47,Female,31-03-2024,Silver,Ahmedabad,Gujarat,India,87500,Organic Search,FALSE
+210014,Kabir,Agarwal,31,Male,31-10-2024,Bronze,Mumbai,Maharashtra,India,102300,Organic Search,FALSE
+210429,Sara,Verma,36,Male,19-03-2025,Bronze,Chennai,Tamil Nadu,India,61800,Direct,FALSE
+210506,Vivaan,Sharma,26,Male,01-09-2024,Bronze,Lucknow,Uttar Pradesh,India,57700,Social Media,FALSE
+210934,Nisha,Chopra,20,Male,23-05-2024,Bronze,Kolkata,West Bengal,India,35700,Direct,FALSE
+212225,Aarav,Kapoor,31,Male,20-06-2024,Bronze,Bengaluru,Karnataka,India,49300,Social Media,FALSE
+212472,Aarav,Kapoor,46,Female,28-01-2025,Bronze,Ahmedabad,Gujarat,India,178400,Organic Search,TRUE
+212904,Rohan,Gupta,35,Male,09-06-2024,Silver,Mumbai,Maharashtra,India,54300,Email,FALSE
+214343,Vivaan,Khanna,30,Male,07-02-2024,Bronze,Pune,Maharashtra,India,64400,Referral,FALSE
+214736,Pooja,Sethi,26,Male,14-12-2025,Bronze,Surat,Gujarat,India,70600,Paid Search,FALSE
+215726,Aarav,Verma,27,Male,27-04-2024,Gold,Mumbai,Maharashtra,India,158500,Direct,FALSE
+216121,Rahul,Kumar,44,Female,20-11-2025,Bronze,Bengaluru,Karnataka,India,71900,Paid Search,TRUE
+216247,Rohan,Malhotra,42,Female,06-01-2025,Silver,Hyderabad,Telangana,India,88500,Social Media,FALSE
+217504,Maya,Menon,29,Female,12-04-2025,Silver,Surat,Gujarat,India,,Referral,FALSE
+217513,Meera,Kapoor,33,Female,20-01-2024,Bronze,Delhi,Delhi,India,66900,Organic Search,FALSE
+218174,Kabir,Jain,32,Female,22-07-2024,Silver,Chennai,Tamil Nadu,India,,Email,FALSE
+218555,Sana,Rao,21,Male,13-08-2024,Silver,Pune,Maharashtra,India,83000,Direct,FALSE
+218593,Nisha,Choudhary,26,Male,05-11-2024,Bronze,Delhi,Delhi,India,42600,Email,TRUE
+218765,Ananya,Sethi,51,Female,02-07-2024,Bronze,Delhi,Delhi,India,47900,Paid Search,TRUE
+220409,Ishaan,Saxena,29,Female,25-06-2024,Silver,Delhi,Delhi,India,133000,Paid Search,FALSE
+221570,Avni,Agarwal,26,Male,13-02-2024,Bronze,Hyderabad,Telangana,India,30800,Social Media,FALSE
+223928,Rohan,Patel,41,Female,04-06-2024,Bronze,Delhi,Delhi,India,138100,Direct,FALSE
+224201,Ananya,Desai,27,Female,15-04-2025,Silver,Mumbai,Maharashtra,India,85500,Organic Search,FALSE
+224377,Tara,Reddy,29,Male,03-03-2025,Silver,Kolkata,West Bengal,India,118100,Organic Search,FALSE
+224962,Zoya,Jain,44,Male,17-07-2024,Silver,Kolkata,West Bengal,India,23200,Social Media,FALSE
+225334,Rohan,Mehta,32,Female,20-12-2024,Bronze,Mumbai,Maharashtra,India,54300,Social Media,FALSE
+226274,Isha,Menon,21,Female,16-07-2024,Silver,Hyderabad,Telangana,India,,Referral,FALSE
+227208,Sana,Sinha,28,Female,09-09-2025,Bronze,Mumbai,Maharashtra,India,24400,Affiliate,FALSE
+228176,Ananya,Verma,37,Female,16-01-2025,Bronze,Hyderabad,Telangana,India,126600,Paid Search,FALSE
+228445,Isha,Khanna,31,Female,27-06-2025,Bronze,Hyderabad,Telangana,India,64400,Referral,FALSE
+231491,Meera,Pillai,34,Female,04-08-2024,Bronze,Bengaluru,Karnataka,India,67300,Organic Search,FALSE
+231918,Sana,Patel,36,Female,09-03-2024,Silver,Chennai,Tamil Nadu,India,66500,Paid Search,FALSE
+232711,Vivaan,Khanna,18,Male,08-12-2024,Silver,Delhi,Delhi,India,43100,Referral,FALSE
+233340,Reyansh,Agarwal,47,Non-binary,01-11-2024,Bronze,Bengaluru,Karnataka,India,29100,Referral,TRUE
+233910,Reyansh,Singh,27,Male,12-10-2025,Bronze,Chennai,Tamil Nadu,India,67400,Email,FALSE
+233991,Karan,Pillai,32,Male,11-03-2024,Bronze,Hyderabad,Telangana,India,103500,Social Media,TRUE
+234086,Riya,Mishra,46,Female,19-09-2025,Bronze,Bengaluru,Karnataka,India,73100,Direct,FALSE
+236575,Pooja,Sharma,32,Male,17-01-2024,Bronze,Kochi,Kerala,India,28000,Social Media,TRUE
+236731,Aarav,Desai,25,Male,23-08-2024,Silver,Kolkata,West Bengal,India,76200,Paid Search,FALSE
+236767,Tara,Banerjee,39,Female,16-12-2024,Bronze,Ahmedabad,Gujarat,India,33900,Paid Search,FALSE
+236875,Karan,Saxena,37,Male,28-06-2025,Silver,Kolkata,West Bengal,India,110200,Email,FALSE
+239457,Avni,Sharma,30,Male,07-06-2024,Bronze,Lucknow,Uttar Pradesh,India,111600,Social Media,FALSE
+239803,Riya,Joshi,18,Male,21-10-2025,Bronze,Bengaluru,Karnataka,India,45200,Referral,FALSE
+240369,Avni,Gupta,39,Female,14-07-2024,Bronze,Delhi,Delhi,India,67200,Email,FALSE
+242174,Sana,Saxena,28,Male,10-12-2025,Bronze,Noida,Uttar Pradesh,India,64500,Social Media,FALSE
+243325,Ishaan,Gupta,39,Non-binary,08-12-2024,Silver,Lucknow,Uttar Pradesh,India,91700,Referral,FALSE
+246503,Ishaan,Saxena,32,Male,04-11-2024,Bronze,Delhi,Delhi,India,87900,Referral,FALSE
+246868,Ananya,Sethi,26,Female,01-07-2024,Silver,Bengaluru,Karnataka,India,29100,Organic Search,TRUE
+248381,Maya,Khanna,23,Female,07-09-2024,Silver,Ahmedabad,Gujarat,India,56300,Direct,FALSE
+250088,Ishaan,Sharma,26,Female,18-09-2025,Bronze,Bhopal,Madhya Pradesh,India,25300,Organic Search,FALSE
+250203,Ananya,Bansal,21,Female,07-12-2024,Silver,Bengaluru,Karnataka,India,171400,Email,FALSE
+250415,Priya,Choudhary,18,Male,30-05-2024,Bronze,Jaipur,Rajasthan,India,76900,Organic Search,FALSE
+251505,Isha,Saxena,28,Male,07-03-2024,Silver,Bengaluru,Karnataka,India,136900,Social Media,FALSE
+251736,Arjun,Sinha,36,Non-binary,28-07-2025,Bronze,Mumbai,Maharashtra,India,111900,Paid Search,TRUE
+252391,Karan,Patel,44,Male,14-10-2025,Bronze,Hyderabad,Telangana,India,62600,Social Media,FALSE
+254810,Aanya,Desai,52,Male,16-09-2025,Silver,Hyderabad,Telangana,India,53800,Social Media,TRUE
+256210,Kavya,Sethi,35,Male,13-10-2025,Silver,Delhi,Delhi,India,102400,Organic Search,FALSE
+258875,Aanya,Das,39,Male,24-03-2025,Bronze,Surat,Gujarat,India,91300,Organic Search,FALSE
+260355,Ishaan,Patel,18,Female,28-12-2025,Bronze,Mumbai,Maharashtra,India,35600,Organic Search,FALSE
+261020,Vivaan,Desai,32,Female,12-07-2025,Silver,Chennai,Tamil Nadu,India,75900,Organic Search,FALSE
+261339,Kabir,Agarwal,28,Female,25-02-2025,Bronze,Bengaluru,Karnataka,India,95500,Organic Search,TRUE
+261413,Aanya,Reddy,32,Female,02-05-2025,Bronze,Noida,Uttar Pradesh,India,41300,Referral,FALSE
+262903,Maya,Choudhary,31,Male,10-01-2024,Gold,Mumbai,Maharashtra,India,129700,Email,FALSE
+263044,Neha,Choudhary,21,Female,20-08-2025,Silver,Noida,Uttar Pradesh,India,57000,Referral,FALSE
+266077,Karan,Patel,34,Male,29-09-2025,Bronze,Bengaluru,Karnataka,India,51600,Paid Search,FALSE
+266892,Diya,Desai,38,Female,19-12-2025,Bronze,Bengaluru,Karnataka,India,59100,Direct,FALSE
+267417,Kavya,Das,23,Female,02-06-2025,Bronze,Mumbai,Maharashtra,India,151200,Paid Search,FALSE
+267781,Neha,Chopra,40,Male,06-08-2025,Silver,Nagpur,Maharashtra,India,22400,Organic Search,FALSE
+267818,Aditya,Khanna,45,Male,18-11-2025,Bronze,Mumbai,Maharashtra,India,75400,Paid Search,FALSE
+268660,Aanya,Choudhary,26,Female,06-11-2024,Bronze,Delhi,Delhi,India,51800,Paid Search,FALSE
+270432,Sana,Choudhary,53,Male,15-01-2024,Silver,Mumbai,Maharashtra,India,53100,Referral,FALSE
+270564,Nisha,Choudhary,21,Female,22-01-2024,Bronze,Mumbai,Maharashtra,India,57100,Affiliate,FALSE
+272139,Karan,Menon,28,Male,24-05-2024,Bronze,Mumbai,Maharashtra,India,,Social Media,FALSE
+272201,Kabir,Joshi,48,Female,15-03-2024,Silver,Pune,Maharashtra,India,61600,Referral,FALSE
+273966,Ananya,Singh,37,Male,12-12-2024,Bronze,Hyderabad,Telangana,India,49400,Email,FALSE
+273970,Zoya,Sethi,33,Female,19-08-2025,Bronze,Mumbai,Maharashtra,India,45000,Email,FALSE
+274355,Sana,Malhotra,47,Female,27-08-2024,Bronze,Delhi,Delhi,India,49500,Paid Search,FALSE
+274834,Ishaan,Joshi,37,Male,21-03-2024,Bronze,Chennai,Tamil Nadu,India,79800,Affiliate,TRUE
+276248,Reyansh,Das,43,Male,21-09-2025,Bronze,Bengaluru,Karnataka,India,40800,,FALSE
+276393,Kiara,Reddy,36,Male,09-10-2024,Silver,Delhi,Delhi,India,56100,Social Media,FALSE
+277727,Aarav,Choudhary,30,Female,22-02-2024,Silver,Lucknow,Uttar Pradesh,India,39900,Direct,FALSE
+278661,Aanya,Nair,44,Male,13-11-2025,Bronze,Surat,Gujarat,India,60500,Affiliate,TRUE
+280076,Zoya,Banerjee,44,Male,30-06-2024,Silver,Coimbatore,Tamil Nadu,India,82200,Direct,FALSE
+280702,Ishaan,Menon,33,Male,02-12-2024,Bronze,Jaipur,Rajasthan,India,114900,Social Media,TRUE
+281384,Nisha,Banerjee,47,Female,11-02-2024,Silver,Chennai,Tamil Nadu,India,76800,Email,FALSE
+282065,Priya,Khanna,18,Female,08-01-2024,Silver,Delhi,Delhi,India,114300,Paid Search,FALSE
+283460,Priya,Menon,48,Male,15-10-2024,Silver,Coimbatore,Tamil Nadu,India,78200,Paid Search,FALSE
+284383,Zoya,Reddy,22,Female,29-12-2024,Silver,Noida,Uttar Pradesh,India,81300,Email,FALSE
+284616,Ishaan,Bansal,45,Female,12-02-2025,Bronze,Hyderabad,Telangana,India,106100,Organic Search,FALSE
+284839,Simran,Gupta,26,Female,14-07-2025,Bronze,Mumbai,Maharashtra,India,90800,Social Media,FALSE
+284849,Kiara,Sharma,28,Female,20-10-2025,Bronze,Kolkata,West Bengal,India,157400,Affiliate,FALSE
+285228,Kabir,Verma,26,Male,09-02-2025,Silver,Ahmedabad,Gujarat,India,101800,Organic Search,FALSE
+285918,Maya,Rao,25,Female,25-05-2025,Bronze,Hyderabad,Telangana,India,37300,Email,FALSE
+287592,Sana,Khanna,20,Male,28-01-2024,Silver,Chennai,Tamil Nadu,India,55400,Organic Search,FALSE
+288257,Kavya,Verma,36,Male,03-09-2024,Bronze,Delhi,Delhi,India,58800,Organic Search,FALSE
+289404,Aarav,Joshi,51,Male,19-09-2025,Silver,Kochi,Kerala,India,78600,Paid Search,FALSE
+290732,Maya,Gupta,18,Male,12-08-2025,Bronze,Bengaluru,Karnataka,India,65900,Organic Search,FALSE
+291368,Simran,Shah,30,Female,11-09-2024,Bronze,Jaipur,Rajasthan,India,,Email,FALSE
+291943,Isha,Iyer,18,Male,06-07-2025,Silver,Bengaluru,Karnataka,India,52400,Organic Search,FALSE
+292070,Riya,Verma,36,Female,04-06-2024,Silver,Bengaluru,Karnataka,India,93600,Referral,FALSE
+292416,Simran,Rao,21,Female,31-08-2024,Bronze,Mumbai,Maharashtra,India,59600,Paid Search,FALSE
+295077,Karan,Verma,56,Male,21-10-2024,Bronze,Ahmedabad,Gujarat,India,57100,Direct,FALSE
+295820,Tara,Agarwal,27,Female,21-03-2025,Bronze,Jaipur,Rajasthan,India,69900,Organic Search,FALSE
+297445,Kiara,Sharma,52,Male,07-09-2025,Silver,Bengaluru,Karnataka,India,43100,Paid Search,FALSE
+298256,Diya,Verma,41,Male,22-11-2024,Bronze,Jaipur,Rajasthan,India,81500,Paid Search,FALSE
+298508,Riya,Khanna,45,Male,07-06-2024,Silver,Nagpur,Maharashtra,India,96100,Direct,FALSE
+301589,Zoya,Desai,50,Male,05-09-2024,Silver,Bengaluru,Karnataka,India,138500,Direct,FALSE
+303829,Vivaan,Gupta,33,Female,03-03-2025,Silver,Mumbai,Maharashtra,India,54200,Organic Search,FALSE
+304416,Rahul,Iyer,30,Male,09-01-2025,Bronze,Bengaluru,Karnataka,India,68600,Affiliate,FALSE
+304920,Rahul,Rao,47,Male,13-11-2024,Silver,Chennai,Tamil Nadu,India,63500,Affiliate,FALSE
+306269,Sneha,Verma,41,Female,16-05-2025,Bronze,Surat,Gujarat,India,45400,Email,FALSE
+307597,Kavya,Mehta,40,Non-binary,29-06-2024,Bronze,Chennai,Tamil Nadu,India,61500,Paid Search,FALSE
+308812,Meera,Shah,47,Female,27-06-2024,Silver,Delhi,Delhi,India,71500,Paid Search,FALSE
+310713,Rohan,Menon,48,Male,10-11-2024,Bronze,Hyderabad,Telangana,India,33800,Direct,FALSE
+311051,Reyansh,Jain,29,Male,06-01-2024,Gold,Pune,Maharashtra,India,81000,Email,FALSE
+311730,Nisha,Nair,41,Male,19-07-2025,Bronze,Bengaluru,Karnataka,India,68600,Social Media,FALSE
+311796,Maya,Kumar,34,Female,14-04-2024,Silver,Hyderabad,Telangana,India,32100,Paid Search,FALSE
+313677,Avni,Agarwal,32,Male,11-05-2025,Silver,Jaipur,Rajasthan,India,,Paid Search,FALSE
+315098,Zoya,Das,49,Male,23-09-2025,Bronze,Mumbai,Maharashtra,India,,Organic Search,FALSE
+315327,Vivaan,Rao,45,Female,15-10-2025,Bronze,Indore,Madhya Pradesh,India,69500,Organic Search,FALSE
+315856,Diya,Agarwal,34,,17-04-2025,Bronze,Pune,Maharashtra,India,39300,Paid Search,FALSE
+316865,Neha,Sharma,34,Male,03-02-2025,Bronze,Kochi,Kerala,India,69500,Social Media,FALSE
+317180,Aditya,Das,26,Female,24-04-2025,Bronze,Kochi,Kerala,India,88100,Paid Search,FALSE
+318678,Pooja,Khanna,25,Male,06-03-2024,Bronze,Delhi,Delhi,India,77300,Referral,FALSE
+319368,Aarav,Saxena,26,Female,22-03-2025,Bronze,Bhopal,Madhya Pradesh,India,76700,Referral,FALSE
+319850,Kavya,Khanna,18,Female,04-07-2024,Bronze,Jaipur,Rajasthan,India,33600,Direct,TRUE
+320066,Tara,Patel,44,Female,17-12-2024,Bronze,Ahmedabad,Gujarat,India,250200,Paid Search,FALSE
+324083,Kiara,Jain,37,Prefer not to say,04-07-2024,Silver,Bengaluru,Karnataka,India,63000,Organic Search,FALSE
+324365,Priya,Banerjee,28,Female,20-09-2024,Silver,Bengaluru,Karnataka,India,72700,Direct,TRUE
+324969,Kavya,Chopra,37,Male,08-07-2024,Silver,Delhi,Delhi,India,46800,Paid Search,FALSE
+325460,Sana,Mehta,29,Female,18-01-2024,Silver,Nagpur,Maharashtra,India,38500,Social Media,FALSE
+325495,Rahul,Mishra,38,Female,22-10-2024,Bronze,Surat,Gujarat,India,63900,Paid Search,FALSE
+326621,Ishaan,Saxena,36,Female,02-06-2025,Silver,Mumbai,Maharashtra,India,79200,Organic Search,FALSE
+327083,Tara,Khanna,20,Male,21-05-2024,Bronze,Indore,Madhya Pradesh,India,78200,Paid Search,FALSE
+327245,Rahul,Reddy,33,Male,05-09-2025,Silver,Delhi,Delhi,India,143800,Organic Search,FALSE
+327386,Simran,Rao,41,Male,14-08-2024,Bronze,Lucknow,Uttar Pradesh,India,44300,Email,FALSE
+328119,Aditya,Choudhary,18,Female,16-06-2025,Bronze,Bengaluru,Karnataka,India,151100,Social Media,FALSE
+331920,Reyansh,Banerjee,34,Female,03-09-2025,Bronze,Bengaluru,Karnataka,India,80000,Social Media,TRUE
+333453,Ishaan,Singh,20,Prefer not to say,09-01-2024,Gold,Lucknow,Uttar Pradesh,India,84000,Social Media,FALSE
+338179,Kiara,Verma,45,Female,01-03-2024,Gold,Kochi,Kerala,India,46400,Direct,FALSE
+339186,Tara,Patel,45,Male,21-04-2024,Silver,Mumbai,Maharashtra,India,59400,Organic Search,FALSE
+339311,Ishaan,Kumar,35,Male,03-05-2024,Bronze,Nagpur,Maharashtra,India,25500,Organic Search,FALSE
+339615,Kavya,Kumar,45,Male,15-02-2025,Bronze,Pune,Maharashtra,India,91300,Organic Search,FALSE
+343305,Pooja,Desai,31,Male,27-02-2025,Silver,Chennai,Tamil Nadu,India,48100,Organic Search,FALSE
+346488,Vivaan,Sharma,38,Male,20-02-2024,Bronze,Kolkata,West Bengal,India,154000,Direct,FALSE
+347007,Ishaan,Menon,24,Female,25-12-2025,Bronze,Surat,Gujarat,India,82400,Social Media,FALSE
+347395,Aanya,Singh,18,Female,31-08-2025,Bronze,Bengaluru,Karnataka,India,45400,Social Media,FALSE
+347406,Aarav,Verma,36,Prefer not to say,05-02-2024,Bronze,Kochi,Kerala,India,72500,Direct,FALSE
+347697,Arjun,Shah,26,Female,02-06-2024,Bronze,Lucknow,Uttar Pradesh,India,61400,Referral,TRUE
+348796,Rahul,Menon,18,Female,05-01-2025,Bronze,Pune,Maharashtra,India,51800,Social Media,FALSE
+349281,Kiara,Sinha,51,Female,09-08-2024,Bronze,Delhi,Delhi,India,40800,Paid Search,FALSE
+349717,Simran,Patel,18,Female,02-05-2025,Bronze,Surat,Gujarat,India,83700,Direct,FALSE
+349911,Nisha,Singh,36,Female,10-07-2024,Silver,Delhi,Delhi,India,54300,Referral,FALSE
+350080,Nisha,Desai,23,Male,06-10-2024,Silver,Mumbai,Maharashtra,India,66100,Organic Search,FALSE
+350814,Arjun,Khanna,22,Female,03-01-2024,Silver,Ahmedabad,Gujarat,India,61400,Social Media,FALSE
+351566,Zoya,Sinha,30,Female,22-07-2025,Bronze,Bengaluru,Karnataka,India,51500,Referral,FALSE
+351741,Pooja,Khanna,57,Female,20-08-2025,Bronze,Kolkata,West Bengal,India,59400,Organic Search,FALSE
+351953,Kiara,Chopra,36,Male,13-06-2025,Bronze,Bhopal,Madhya Pradesh,India,70100,Referral,FALSE
+352296,Sana,Chopra,36,Female,09-03-2025,Bronze,Bengaluru,Karnataka,India,22000,Referral,FALSE
+353048,Diya,Menon,18,Male,06-03-2024,Bronze,Bengaluru,Karnataka,India,36500,Paid Search,FALSE
+353080,Sara,Joshi,31,Male,18-04-2025,Bronze,Kolkata,West Bengal,India,72000,Referral,FALSE
+356888,Meera,Shah,42,Male,18-07-2025,Bronze,Bengaluru,Karnataka,India,56300,Organic Search,FALSE
+357712,Kavya,Desai,38,Male,05-12-2024,Bronze,Mumbai,Maharashtra,India,,Direct,FALSE
+360097,Reyansh,Iyer,39,Female,11-06-2025,Silver,Surat,Gujarat,India,67700,,FALSE
+360910,Ananya,Menon,28,Male,24-04-2024,Bronze,Nagpur,Maharashtra,India,87400,Organic Search,FALSE
+361664,Neha,Gupta,34,Female,17-12-2025,Silver,Mumbai,Maharashtra,India,49600,Referral,FALSE
+361810,Rahul,Kumar,18,Male,28-11-2025,Bronze,Delhi,Delhi,India,,Paid Search,TRUE
+361817,Sneha,Menon,24,Female,08-01-2025,Bronze,Ahmedabad,Gujarat,India,85000,Organic Search,FALSE
+362693,Arjun,Khanna,22,Female,18-09-2024,Silver,Coimbatore,Tamil Nadu,India,37300,Organic Search,FALSE
+362923,Kavya,Saxena,23,Male,16-05-2025,Bronze,Kochi,Kerala,India,51600,Affiliate,FALSE
+365302,Diya,Nair,24,Female,28-10-2025,Bronze,Bhopal,Madhya Pradesh,India,84900,Organic Search,FALSE
+365654,Avni,Sinha,42,Female,18-03-2024,Silver,Ahmedabad,Gujarat,India,,Referral,FALSE
+366635,Meera,Mehta,37,Male,29-07-2024,Bronze,Pune,Maharashtra,India,46600,Referral,TRUE
+368474,Sara,Das,47,Female,05-01-2024,Silver,Bengaluru,Karnataka,India,68700,Email,FALSE
+368895,Priya,Kapoor,36,Male,30-01-2025,Bronze,Delhi,Delhi,India,39000,Email,FALSE
+369352,Pooja,Jain,50,Male,14-11-2025,Bronze,Lucknow,Uttar Pradesh,India,72600,Organic Search,FALSE
+370235,Vivaan,Nair,19,,21-12-2024,Bronze,Mumbai,Maharashtra,India,48500,Organic Search,FALSE
+370350,Vivaan,Saxena,35,Prefer not to say,03-11-2024,Silver,Hyderabad,Telangana,India,90200,Email,FALSE
+371143,Aanya,Menon,28,Male,08-02-2024,Bronze,Hyderabad,Telangana,India,46900,Direct,FALSE
+371899,Sneha,Mishra,43,,23-07-2025,Bronze,Hyderabad,Telangana,India,72200,Direct,FALSE
+377152,Zoya,Kumar,34,Female,11-08-2025,Bronze,Kochi,Kerala,India,74900,Social Media,FALSE
+377531,Ishaan,Kumar,38,Male,04-01-2024,Silver,Lucknow,Uttar Pradesh,India,78500,Email,FALSE
+377801,Sara,Reddy,48,Female,22-09-2024,Bronze,Lucknow,Uttar Pradesh,India,81700,Social Media,FALSE
+378630,Simran,Chopra,37,Male,15-08-2025,Bronze,Mumbai,Maharashtra,India,59100,Direct,FALSE
+381596,Aarav,Singh,27,Female,05-03-2024,Bronze,Ahmedabad,Gujarat,India,68800,Organic Search,FALSE
+382444,Neha,Malhotra,36,Prefer not to say,06-04-2025,Silver,Mumbai,Maharashtra,India,60300,Organic Search,FALSE
+385897,Aarav,Joshi,26,Female,02-05-2024,Bronze,Coimbatore,Tamil Nadu,India,,Paid Search,FALSE
+386059,Rahul,Joshi,40,Female,01-06-2025,Silver,Bengaluru,Karnataka,India,67100,Organic Search,FALSE
+386106,Diya,Sinha,39,,02-02-2024,Bronze,Ahmedabad,Gujarat,India,49100,Organic Search,FALSE
+388095,Diya,Malhotra,37,Male,14-04-2024,Silver,Indore,Madhya Pradesh,India,102700,,FALSE
+388158,Rohan,Verma,46,Female,20-11-2024,Silver,Indore,Madhya Pradesh,India,57100,Organic Search,FALSE
+389676,Zoya,Sinha,30,Female,05-09-2025,Silver,Mumbai,Maharashtra,India,121100,Email,FALSE
+390210,Aanya,Nair,40,Prefer not to say,12-10-2024,Silver,Noida,Uttar Pradesh,India,39900,Paid Search,FALSE
+391078,Kavya,Sharma,47,Female,13-10-2024,Bronze,Chandigarh,Chandigarh,India,,Direct,FALSE
+392962,Ananya,Mehta,40,Female,03-02-2024,Gold,Chennai,Tamil Nadu,India,89100,Organic Search,FALSE
+393562,Rohan,Nair,44,Male,15-06-2024,Bronze,Jaipur,Rajasthan,India,51900,Paid Search,FALSE
+393566,Maya,Agarwal,39,Female,28-01-2024,Silver,Bengaluru,Karnataka,India,50400,Organic Search,FALSE
+394651,Diya,Iyer,45,Female,05-09-2024,Silver,Mumbai,Maharashtra,India,80100,Paid Search,FALSE
+396652,Kavya,Saxena,39,Male,30-12-2024,Silver,Delhi,Delhi,India,57300,Paid Search,FALSE
+396941,Riya,Jain,37,Prefer not to say,03-02-2025,Silver,Ahmedabad,Gujarat,India,22000,Social Media,FALSE
+397103,Aditya,Gupta,41,Male,12-07-2025,Bronze,Indore,Madhya Pradesh,India,33200,Direct,TRUE
+398690,Arjun,Kapoor,25,,24-11-2025,Silver,Bengaluru,Karnataka,India,134900,Organic Search,FALSE
+399824,Rahul,Mehta,36,Female,13-05-2025,Bronze,Hyderabad,Telangana,India,40500,Direct,FALSE
+402445,Kiara,Patel,35,Male,15-07-2024,Silver,Indore,Madhya Pradesh,India,47600,Referral,FALSE
+403067,Ishaan,Iyer,26,Female,02-10-2024,Silver,Jaipur,Rajasthan,India,90700,Organic Search,FALSE
+403318,Pooja,Das,36,Male,12-08-2025,Silver,Mumbai,Maharashtra,India,58200,Organic Search,FALSE
+404470,Arjun,Das,35,Male,04-02-2024,Gold,Pune,Maharashtra,India,44100,Email,FALSE
+405521,Karan,Banerjee,39,Female,16-05-2024,Silver,Delhi,Delhi,India,92500,Organic Search,FALSE
+405872,Sara,Mehta,27,Female,28-12-2025,Bronze,Mumbai,Maharashtra,India,52300,Affiliate,FALSE
+408027,Aanya,Sharma,34,Male,26-10-2024,Silver,Delhi,Delhi,India,27400,Organic Search,FALSE
+408709,Kabir,Choudhary,19,Female,21-07-2024,Bronze,Mumbai,Maharashtra,India,83800,Paid Search,FALSE
+410843,Isha,Saxena,42,Female,07-12-2024,Bronze,Bengaluru,Karnataka,India,84100,Organic Search,FALSE
+411173,Aanya,Kumar,38,Male,22-07-2025,Silver,Chennai,Tamil Nadu,India,50800,Referral,FALSE
+412789,Diya,Joshi,22,Female,11-12-2025,Bronze,Delhi,Delhi,India,46400,Social Media,FALSE
+414826,Rohan,Chopra,45,Female,06-12-2024,Bronze,Kolkata,West Bengal,India,,Referral,FALSE
+415392,Riya,Iyer,56,Male,10-04-2025,Silver,Bhopal,Madhya Pradesh,India,30300,Referral,FALSE
+416598,Kavya,Das,34,Male,27-05-2024,Silver,Bengaluru,Karnataka,India,75000,Organic Search,FALSE
+417948,Ananya,Reddy,34,Male,25-04-2024,Silver,Lucknow,Uttar Pradesh,India,26800,Social Media,FALSE
+419538,Isha,Pillai,38,Male,23-12-2024,Bronze,Mumbai,Maharashtra,India,37400,Paid Search,TRUE
+419667,Kavya,Mehta,35,Female,17-06-2024,Silver,Delhi,Delhi,India,76800,Social Media,FALSE
+420762,Ananya,Jain,41,Female,22-11-2025,Silver,Delhi,Delhi,India,141800,Referral,TRUE
+420820,Simran,Gupta,38,Male,06-04-2025,Bronze,Pune,Maharashtra,India,93600,Referral,FALSE
+421462,Reyansh,Reddy,44,Female,22-08-2024,Bronze,Hyderabad,Telangana,India,46800,Referral,FALSE
+421533,Sana,Malhotra,36,Female,29-03-2025,Silver,Noida,Uttar Pradesh,India,35900,Email,FALSE
+422755,Kavya,Shah,56,Female,02-01-2025,Silver,Delhi,Delhi,India,115200,Organic Search,FALSE
+423853,Kabir,Mehta,35,Female,13-10-2024,Bronze,Surat,Gujarat,India,27500,Social Media,FALSE
+424902,Sana,Kapoor,42,Female,12-01-2025,Silver,Surat,Gujarat,India,55500,Referral,FALSE
+424908,Kiara,Choudhary,43,Female,10-12-2025,Silver,Bhopal,Madhya Pradesh,India,148500,Referral,FALSE
+425923,Priya,Menon,26,Female,08-04-2025,Bronze,Mumbai,Maharashtra,India,100900,Affiliate,TRUE
+426578,Tara,Iyer,18,Female,08-10-2025,Bronze,Mumbai,Maharashtra,India,49500,Paid Search,FALSE
+428150,Sara,Iyer,18,Male,11-09-2025,Bronze,Noida,Uttar Pradesh,India,58000,Direct,FALSE
+428402,Pooja,Das,53,,29-07-2025,Bronze,Kolkata,West Bengal,India,26100,Organic Search,TRUE
+428683,Ananya,Mishra,31,Female,14-03-2025,Bronze,Jaipur,Rajasthan,India,97800,Paid Search,FALSE
+429729,Maya,Joshi,30,Female,05-02-2024,Silver,Bengaluru,Karnataka,India,36200,Referral,FALSE
+430032,Sara,Bansal,30,Female,20-03-2025,Bronze,Mumbai,Maharashtra,India,31600,Organic Search,FALSE
+430144,Isha,Pillai,25,Male,13-04-2024,Bronze,Delhi,Delhi,India,65000,Direct,FALSE
+434516,Diya,Kumar,51,Male,05-02-2024,Silver,Lucknow,Uttar Pradesh,India,62000,Direct,FALSE
+434676,Sana,Mehta,49,Female,25-02-2025,Bronze,Delhi,Delhi,India,92800,Referral,FALSE
+435017,Rahul,Sethi,28,Male,05-07-2025,Silver,Hyderabad,Telangana,India,109000,Social Media,FALSE
+436379,Maya,Patel,36,Female,14-05-2025,Silver,Chennai,Tamil Nadu,India,106600,Direct,FALSE
+437988,Simran,Sethi,40,Male,03-02-2025,Silver,Pune,Maharashtra,India,32200,Affiliate,FALSE
+442761,Aanya,Nair,49,Female,28-04-2025,Bronze,Pune,Maharashtra,India,26100,Affiliate,FALSE
+444916,Pooja,Singh,25,Female,27-10-2024,Silver,Pune,Maharashtra,India,,Paid Search,FALSE
+446115,Pooja,Agarwal,28,Female,20-12-2024,Bronze,Bengaluru,Karnataka,India,61700,Direct,FALSE
+446432,Neha,Banerjee,31,Female,21-04-2024,Silver,Noida,Uttar Pradesh,India,84400,Referral,FALSE
+446849,Sana,Das,42,Male,04-07-2024,Bronze,Surat,Gujarat,India,99300,Social Media,FALSE
+447077,Karan,Joshi,30,Male,09-03-2025,Silver,Delhi,Delhi,India,50500,Paid Search,FALSE
+447552,Nisha,Choudhary,33,Female,16-05-2024,Silver,Mumbai,Maharashtra,India,286400,Social Media,FALSE
+449737,Karan,Mehta,40,Non-binary,11-12-2025,Bronze,Delhi,Delhi,India,85100,Social Media,FALSE
+450368,Ananya,Mishra,35,Female,24-08-2025,Bronze,Bengaluru,Karnataka,India,86700,Paid Search,FALSE
+453000,Nisha,Banerjee,34,Male,02-03-2024,Silver,Bengaluru,Karnataka,India,84700,Social Media,FALSE
+454658,Arjun,Reddy,37,Male,22-06-2024,Bronze,Bengaluru,Karnataka,India,71900,Direct,FALSE
+455847,Diya,Sinha,33,Prefer not to say,15-06-2024,Bronze,Delhi,Delhi,India,71000,Referral,FALSE
+456102,Rahul,Mishra,38,Female,03-05-2024,Silver,Pune,Maharashtra,India,116800,Organic Search,FALSE
+457808,Aditya,Verma,26,Female,26-11-2025,Bronze,Ahmedabad,Gujarat,India,58500,Organic Search,FALSE
+458160,Reyansh,Rao,39,Female,20-09-2024,Silver,Mumbai,Maharashtra,India,38800,Affiliate,FALSE
+459182,Aditya,Kumar,42,Male,18-07-2025,Bronze,Hyderabad,Telangana,India,140100,Referral,FALSE
+459466,Aarav,Chopra,29,Male,26-03-2024,Silver,Lucknow,Uttar Pradesh,India,62000,Organic Search,FALSE
+460686,Sneha,Iyer,24,Male,05-10-2025,Bronze,Nagpur,Maharashtra,India,38700,Organic Search,FALSE
+462699,Nisha,Joshi,45,Female,08-12-2025,Bronze,Hyderabad,Telangana,India,86700,Affiliate,FALSE
+463141,Vivaan,Chopra,32,Female,02-03-2024,Silver,Kochi,Kerala,India,83400,Paid Search,FALSE
+468547,Karan,Das,22,Female,13-08-2025,Bronze,Jaipur,Rajasthan,India,55300,Organic Search,FALSE
+469315,Zoya,Joshi,35,Female,20-04-2025,Silver,Mumbai,Maharashtra,India,50800,Referral,FALSE
+469900,Ananya,Iyer,41,Male,30-06-2024,Silver,Lucknow,Uttar Pradesh,India,79600,Social Media,FALSE
+469972,Meera,Chopra,53,Male,24-11-2024,Silver,Ahmedabad,Gujarat,India,22000,Direct,FALSE
+470478,Maya,Sinha,41,Male,16-07-2024,Silver,Pune,Maharashtra,India,84400,Affiliate,FALSE
+471386,Nisha,Das,20,Female,05-11-2024,Silver,Bengaluru,Karnataka,India,43800,Paid Search,FALSE
+472528,Ishaan,Mishra,40,Female,20-03-2025,Silver,Mumbai,Maharashtra,India,65900,Affiliate,FALSE
+473494,Aditya,Verma,29,Male,07-04-2025,Bronze,Mumbai,Maharashtra,India,43000,Paid Search,FALSE
+473722,Ishaan,Joshi,72,Male,03-07-2024,Bronze,Delhi,Delhi,India,115000,Organic Search,FALSE
+474115,Karan,Saxena,45,Female,10-12-2024,Bronze,Mumbai,Maharashtra,India,52000,Paid Search,FALSE
+476057,Rohan,Sinha,46,Female,18-07-2024,Bronze,Mumbai,Maharashtra,India,119300,Referral,FALSE
+477578,Karan,Saxena,33,Male,21-03-2025,Bronze,Delhi,Delhi,India,73900,Organic Search,TRUE
+477682,Neha,Das,59,Male,03-04-2024,Silver,Chandigarh,Chandigarh,India,62400,Direct,FALSE
+478381,Tara,Desai,35,Female,08-10-2024,Silver,Delhi,Delhi,India,53700,Social Media,TRUE
+478805,Diya,Shah,29,,15-03-2025,Bronze,Coimbatore,Tamil Nadu,India,76000,Direct,FALSE
+479454,Sara,Bansal,23,Female,21-10-2025,Bronze,Bengaluru,Karnataka,India,74000,Paid Search,FALSE
+479554,Simran,Jain,54,Male,30-08-2025,Bronze,Hyderabad,Telangana,India,47200,Referral,FALSE
+479818,Aanya,Reddy,56,Female,04-12-2024,Silver,Mumbai,Maharashtra,India,69000,Paid Search,FALSE
+480445,Ishaan,Kapoor,30,Non-binary,16-04-2025,Bronze,Delhi,Delhi,India,69400,Social Media,FALSE
+484201,Isha,Jain,41,Female,17-02-2024,Bronze,Mumbai,Maharashtra,India,81700,Referral,FALSE
+484328,Vivaan,Nair,43,Prefer not to say,20-02-2024,Silver,Delhi,Delhi,India,70000,Organic Search,FALSE
+484517,Kabir,Choudhary,39,Male,10-07-2025,Bronze,Nagpur,Maharashtra,India,59800,,FALSE
+486067,Sneha,Sethi,40,Female,16-04-2024,Silver,Hyderabad,Telangana,India,35500,Email,TRUE
+487101,Neha,Khanna,43,Female,31-07-2024,Bronze,Bengaluru,Karnataka,India,47700,Organic Search,FALSE
+487208,Pooja,Sethi,30,Male,01-09-2025,Bronze,Chandigarh,Chandigarh,India,47500,Social Media,FALSE
+487662,Karan,Jain,22,Male,01-12-2024,Silver,Hyderabad,Telangana,India,126000,Paid Search,FALSE
+488345,Priya,Agarwal,37,Female,27-08-2025,Bronze,Bengaluru,Karnataka,India,103700,Social Media,FALSE
+490782,Priya,Rao,36,Female,19-11-2025,Bronze,Bengaluru,Karnataka,India,41700,Organic Search,FALSE
+491942,Karan,Menon,31,Female,23-05-2025,Silver,Coimbatore,Tamil Nadu,India,102200,Social Media,FALSE
+494832,Meera,Chopra,44,Female,15-10-2025,Bronze,Surat,Gujarat,India,183500,Direct,FALSE
+495243,Sara,Banerjee,21,Male,11-02-2025,Silver,Indore,Madhya Pradesh,India,57200,Direct,FALSE
+495424,Nisha,Chopra,42,Prefer not to say,27-03-2025,Silver,Mumbai,Maharashtra,India,54000,Organic Search,TRUE
+496352,Ananya,Reddy,41,Male,09-09-2024,Silver,Pune,Maharashtra,India,86300,Paid Search,FALSE
+496581,Isha,Singh,48,Male,26-03-2024,Silver,Jaipur,Rajasthan,India,105600,Direct,FALSE
+496732,Meera,Menon,19,Female,26-09-2024,Bronze,Hyderabad,Telangana,India,36600,Organic Search,FALSE
+497188,Aditya,Shah,34,Male,30-08-2025,Bronze,Kochi,Kerala,India,118600,Social Media,FALSE
+497429,Rahul,Gupta,40,Female,11-01-2024,Gold,Bhopal,Madhya Pradesh,India,59500,Organic Search,FALSE
+497879,Karan,Khanna,33,Female,02-04-2024,Gold,Chennai,Tamil Nadu,India,133200,Paid Search,FALSE
+497967,Kavya,Chopra,36,Female,18-11-2024,Silver,Mumbai,Maharashtra,India,40000,Referral,FALSE
+500301,Pooja,Mehta,28,Female,27-12-2024,Silver,Hyderabad,Telangana,India,106800,Organic Search,FALSE
+500347,Isha,Joshi,33,Male,30-12-2025,Bronze,Mumbai,Maharashtra,India,67300,Paid Search,FALSE
+501794,Zoya,Malhotra,25,Male,07-07-2025,Bronze,Kolkata,West Bengal,India,59800,Paid Search,FALSE
+502392,Meera,Saxena,26,Female,19-03-2024,Silver,Indore,Madhya Pradesh,India,52900,Social Media,FALSE
+503618,Neha,Nair,18,Male,10-11-2024,Bronze,Pune,Maharashtra,India,30700,Organic Search,FALSE
+504612,Reyansh,Desai,28,Non-binary,15-11-2025,Bronze,Mumbai,Maharashtra,India,72900,Social Media,FALSE
+504871,Sneha,Saxena,33,Non-binary,24-12-2025,Bronze,Bengaluru,Karnataka,India,68100,Social Media,FALSE
+505043,Maya,Gupta,43,Female,07-09-2025,Bronze,Bhopal,Madhya Pradesh,India,70100,Organic Search,FALSE
+505099,Aditya,Iyer,53,,30-09-2024,Silver,Delhi,Delhi,India,54600,Organic Search,FALSE
+506330,Sara,Mehta,28,Female,09-09-2024,Silver,Chandigarh,Chandigarh,India,70100,Direct,FALSE
+507481,Sara,Saxena,36,Female,09-07-2024,Silver,Bengaluru,Karnataka,India,133500,Direct,FALSE
+510081,Priya,Malhotra,43,Male,28-09-2024,Silver,Ahmedabad,Gujarat,India,72100,Direct,FALSE
+510338,Priya,Agarwal,49,Male,04-04-2025,Bronze,Bengaluru,Karnataka,India,99500,Affiliate,FALSE
+511222,Aditya,Khanna,26,Male,20-11-2024,Silver,Kochi,Kerala,India,29600,Social Media,FALSE
+511294,Rahul,Singh,51,Female,12-10-2024,Bronze,Mumbai,Maharashtra,India,66500,Organic Search,FALSE
+511904,Reyansh,Patel,33,Male,03-08-2024,Bronze,Chennai,Tamil Nadu,India,56400,Organic Search,FALSE
+512209,Kiara,Chopra,18,Female,07-06-2025,Bronze,Bhopal,Madhya Pradesh,India,98600,Email,FALSE
+513429,Aarav,Rao,30,Non-binary,11-03-2024,Silver,Pune,Maharashtra,India,54700,Social Media,FALSE
+513727,Tara,Mishra,40,Female,14-03-2025,Silver,Bengaluru,Karnataka,India,103000,Paid Search,FALSE
+514276,Priya,Agarwal,46,Male,02-03-2025,Bronze,Mumbai,Maharashtra,India,127800,Direct,TRUE
+515524,Zoya,Das,38,Male,17-05-2025,Silver,Kochi,Kerala,India,34000,Organic Search,FALSE
+515670,Ananya,Kapoor,27,Female,28-04-2025,Bronze,Hyderabad,Telangana,India,82100,Social Media,TRUE
+515771,Rohan,Desai,50,Female,09-02-2025,Silver,Bengaluru,Karnataka,India,64100,Paid Search,TRUE
+517340,Priya,Reddy,20,Female,28-02-2025,Bronze,Bengaluru,Karnataka,India,56900,Organic Search,FALSE
+517375,Ananya,Agarwal,30,Female,28-08-2025,Bronze,Surat,Gujarat,India,59400,Organic Search,FALSE
+517432,Avni,Kapoor,42,Male,03-07-2025,Bronze,Hyderabad,Telangana,India,65900,Social Media,FALSE
+517875,Karan,Mehta,25,Male,18-07-2025,Bronze,Bengaluru,Karnataka,India,103700,Affiliate,FALSE
+518660,Simran,Menon,41,Male,25-01-2025,Bronze,Bengaluru,Karnataka,India,55600,Social Media,FALSE
+520016,Aanya,Kumar,27,Male,20-06-2024,Bronze,Pune,Maharashtra,India,109000,Organic Search,FALSE
+520562,Kabir,Bansal,29,Female,09-01-2025,Bronze,Delhi,Delhi,India,67600,Social Media,FALSE
+520829,Diya,Khanna,37,Prefer not to say,14-02-2025,Silver,Jaipur,Rajasthan,India,80300,Paid Search,FALSE
+521449,Diya,Patel,19,Male,17-01-2025,Bronze,Ahmedabad,Gujarat,India,62900,Direct,FALSE
+521628,Sneha,Verma,37,Male,10-11-2025,Bronze,Mumbai,Maharashtra,India,86600,Paid Search,FALSE
+522195,Aditya,Joshi,24,Male,17-11-2025,Silver,Mumbai,Maharashtra,India,88000,Paid Search,TRUE
+522957,Diya,Singh,37,Male,12-10-2024,Bronze,Mumbai,Maharashtra,India,161900,Direct,FALSE
+523351,Sara,Sinha,33,Male,03-07-2024,Silver,Jaipur,Rajasthan,India,57900,Referral,FALSE
+524835,Meera,Gupta,36,Female,23-09-2025,Bronze,Bengaluru,Karnataka,India,71000,Organic Search,FALSE
+525353,Nisha,Verma,20,Female,02-09-2024,Silver,Chandigarh,Chandigarh,India,76500,Direct,FALSE
+526971,Maya,Mehta,18,Female,06-11-2025,Bronze,Bengaluru,Karnataka,India,64200,Organic Search,FALSE
+527713,Rohan,Mishra,49,Female,25-07-2024,Bronze,Hyderabad,Telangana,India,42700,Organic Search,TRUE
+528020,Aditya,Nair,42,Male,10-11-2024,Bronze,Mumbai,Maharashtra,India,42100,Direct,TRUE
+528244,Sara,Gupta,30,Non-binary,20-12-2024,Bronze,Surat,Gujarat,India,,Social Media,FALSE
+529337,Diya,Sinha,31,Male,20-06-2024,Silver,Bhopal,Madhya Pradesh,India,54400,Referral,TRUE
+529594,Kabir,Sharma,18,Male,01-08-2024,Bronze,Kochi,Kerala,India,70300,Paid Search,FALSE
+529767,Rahul,Khanna,23,Prefer not to say,04-02-2025,Silver,Nagpur,Maharashtra,India,109100,Social Media,FALSE
+530053,Maya,Singh,54,Female,05-05-2024,Silver,Indore,Madhya Pradesh,India,57100,Organic Search,FALSE
+530281,Aarav,Choudhary,46,Female,09-04-2024,Silver,Bengaluru,Karnataka,India,62300,Organic Search,FALSE
+530556,Priya,Nair,42,Female,27-12-2025,Bronze,Delhi,Delhi,India,105100,Social Media,FALSE
+531162,Rohan,Malhotra,24,Male,05-03-2024,Silver,Bengaluru,Karnataka,India,67100,Direct,FALSE
+531468,Vivaan,Khanna,26,Male,12-11-2025,Bronze,Coimbatore,Tamil Nadu,India,97200,Direct,TRUE
+532465,Aarav,Jain,18,Female,01-10-2025,Bronze,Jaipur,Rajasthan,India,36400,Paid Search,FALSE
+533192,Maya,Shah,18,,26-09-2024,Bronze,Delhi,Delhi,India,93600,Organic Search,FALSE
+533590,Aanya,Rao,30,Female,28-11-2025,Bronze,Bengaluru,Karnataka,India,141900,Referral,FALSE
+534830,Riya,Joshi,25,Male,09-11-2024,Silver,Chennai,Tamil Nadu,India,90900,Affiliate,FALSE
+537886,Rohan,Verma,37,Male,09-02-2025,Bronze,Pune,Maharashtra,India,32900,Social Media,FALSE
+537897,Karan,Patel,49,Male,17-02-2024,Bronze,Pune,Maharashtra,India,44300,Email,FALSE
+538331,Reyansh,Bansal,47,Male,28-07-2024,Bronze,Chennai,Tamil Nadu,India,,Paid Search,FALSE
+538513,Riya,Mehta,18,Female,05-01-2025,Silver,Delhi,Delhi,India,45100,Referral,FALSE
+538863,Aarav,Das,31,Male,14-10-2024,Bronze,Delhi,Delhi,India,85200,Social Media,FALSE
+542719,Ishaan,Sethi,21,Female,08-08-2025,Bronze,Kolkata,West Bengal,India,191100,Organic Search,FALSE
+542739,Riya,Saxena,44,Female,15-09-2025,Silver,Chennai,Tamil Nadu,India,37500,Paid Search,TRUE
+542804,Nisha,Pillai,21,Male,02-02-2025,Bronze,Bengaluru,Karnataka,India,81800,,FALSE
+543283,Aarav,Reddy,32,Female,30-10-2024,Silver,Pune,Maharashtra,India,32700,Social Media,TRUE
+543384,Aditya,Malhotra,21,Prefer not to say,09-06-2024,Silver,Chandigarh,Chandigarh,India,37700,Social Media,FALSE
+543470,Vivaan,Bansal,30,Female,30-11-2025,Bronze,Bengaluru,Karnataka,India,138200,Organic Search,FALSE
+543688,Arjun,Pillai,31,Male,29-02-2024,Bronze,Pune,Maharashtra,India,67300,Email,FALSE
+543715,Reyansh,Choudhary,47,Male,15-12-2025,Silver,Hyderabad,Telangana,India,85100,Referral,FALSE
+545331,Kiara,Agarwal,23,Female,23-03-2024,Silver,Mumbai,Maharashtra,India,63100,Organic Search,FALSE
+545848,Nisha,Sharma,32,Male,15-01-2025,Silver,Mumbai,Maharashtra,India,55100,Paid Search,FALSE
+546412,Aanya,Saxena,28,Female,16-01-2025,Bronze,Bengaluru,Karnataka,India,40400,Referral,FALSE
+546516,Sana,Agarwal,56,Male,08-09-2025,Bronze,Delhi,Delhi,India,82200,Organic Search,TRUE
+548049,Kabir,Kapoor,29,Female,20-06-2024,Bronze,Bengaluru,Karnataka,India,78200,Email,FALSE
+549533,Meera,Nair,42,,24-03-2025,Bronze,Bengaluru,Karnataka,India,62900,Social Media,FALSE
+549736,Zoya,Gupta,43,Female,20-12-2025,Bronze,Hyderabad,Telangana,India,54500,Paid Search,FALSE
+552963,Neha,Kapoor,45,Female,07-07-2024,Silver,Bengaluru,Karnataka,India,44000,Organic Search,FALSE
+553176,Kavya,Mehta,18,Male,28-10-2024,Bronze,Nagpur,Maharashtra,India,56400,Social Media,FALSE
+553819,Kiara,Verma,31,Male,02-09-2025,Silver,Nagpur,Maharashtra,India,82100,Paid Search,FALSE
+554091,Kavya,Choudhary,42,Male,25-08-2024,Silver,Delhi,Delhi,India,68900,Paid Search,FALSE
+554476,Vivaan,Sethi,35,Male,08-01-2024,Silver,Coimbatore,Tamil Nadu,India,,Paid Search,FALSE
+554815,Tara,Bansal,30,Male,10-12-2024,Bronze,Mumbai,Maharashtra,India,41000,Social Media,FALSE
+555489,Kavya,Jain,18,Male,07-04-2024,Silver,Mumbai,Maharashtra,India,31500,Referral,FALSE
+555950,Diya,Saxena,34,Female,07-09-2025,Silver,Ahmedabad,Gujarat,India,39900,Paid Search,FALSE
+556071,Sneha,Sharma,43,Male,17-08-2025,Bronze,Indore,Madhya Pradesh,India,56100,Email,FALSE
+556113,Ananya,Gupta,37,Male,25-05-2024,Silver,Ahmedabad,Gujarat,India,,Email,TRUE
+556608,Priya,Mishra,32,Female,25-02-2024,Silver,Delhi,Delhi,India,68400,Paid Search,TRUE
+556642,Avni,Sharma,20,Female,12-08-2024,Bronze,Chennai,Tamil Nadu,India,34600,Social Media,TRUE
+557433,Maya,Chopra,27,Male,22-01-2024,Silver,Ahmedabad,Gujarat,India,27800,Social Media,FALSE
+560576,Aditya,Kumar,36,Non-binary,07-02-2025,Silver,Delhi,Delhi,India,92700,Organic Search,FALSE
+560725,Reyansh,Khanna,55,Male,11-03-2025,Bronze,Noida,Uttar Pradesh,India,,Email,FALSE
+562312,Neha,Gupta,38,Male,01-02-2024,Silver,Indore,Madhya Pradesh,India,,Organic Search,FALSE
+562335,Ananya,Pillai,29,Male,24-06-2024,Bronze,Delhi,Delhi,India,117400,Social Media,FALSE
+562761,Rahul,Sharma,33,Female,14-12-2025,Silver,Kolkata,West Bengal,India,53300,Social Media,FALSE
+563963,Kavya,Chopra,39,Female,31-03-2024,Silver,Ahmedabad,Gujarat,India,28400,Social Media,FALSE
+564068,Ishaan,Mishra,41,Female,12-09-2025,Silver,Bengaluru,Karnataka,India,,Referral,FALSE
+565699,Ishaan,Mishra,29,Male,28-08-2025,Silver,Pune,Maharashtra,India,86500,Paid Search,FALSE
+568428,Rohan,Shah,47,Male,27-01-2024,Silver,Delhi,Delhi,India,49800,Social Media,FALSE
+568630,Nisha,Khanna,36,Male,01-06-2024,Silver,Indore,Madhya Pradesh,India,,Social Media,FALSE
+569778,Aarav,Rao,29,Female,20-09-2024,Silver,Delhi,Delhi,India,76300,Referral,FALSE
+569791,Avni,Gupta,30,Female,22-10-2024,Silver,Delhi,Delhi,India,35300,Referral,FALSE
+571310,Rohan,Saxena,52,Male,18-09-2025,Bronze,Bengaluru,Karnataka,India,121900,Affiliate,FALSE
+572156,Sneha,Sinha,39,Male,09-11-2024,Bronze,Noida,Uttar Pradesh,India,48000,Organic Search,FALSE
+572377,Reyansh,Agarwal,54,Prefer not to say,03-09-2024,Bronze,Ahmedabad,Gujarat,India,40100,Social Media,FALSE
+572666,Meera,Jain,45,Female,06-04-2025,Bronze,Delhi,Delhi,India,138100,Direct,FALSE
+572986,Ananya,Joshi,29,Prefer not to say,23-03-2025,Bronze,Delhi,Delhi,India,33800,Referral,FALSE
+573260,Vivaan,Mehta,35,Male,18-03-2025,Silver,Surat,Gujarat,India,77200,Organic Search,FALSE
+573587,Vivaan,Chopra,20,Female,14-10-2025,Silver,Pune,Maharashtra,India,42500,Direct,TRUE
+574057,Kiara,Menon,40,Male,09-03-2024,Bronze,Bengaluru,Karnataka,India,112000,Organic Search,TRUE
+574198,Pooja,Das,31,Female,08-04-2024,Silver,Bengaluru,Karnataka,India,25600,Social Media,FALSE
+575415,Tara,Jain,25,Female,31-05-2024,Bronze,Kochi,Kerala,India,94000,Affiliate,FALSE
+575698,Aarav,Choudhary,18,Female,22-04-2024,Silver,Mumbai,Maharashtra,India,26500,Social Media,FALSE
+577062,Sneha,Nair,35,Male,31-03-2024,Bronze,Noida,Uttar Pradesh,India,52800,Paid Search,TRUE
+577095,Sara,Shah,26,Male,27-12-2024,Silver,Bhopal,Madhya Pradesh,India,100700,Paid Search,FALSE
+577700,Zoya,Desai,27,Male,27-07-2025,Bronze,Delhi,Delhi,India,60200,Referral,FALSE
+582774,Avni,Menon,29,Male,15-10-2024,Bronze,Hyderabad,Telangana,India,44500,Referral,FALSE
+585805,Nisha,Patel,20,Female,22-04-2025,Bronze,Mumbai,Maharashtra,India,52500,Paid Search,FALSE
+586782,Ishaan,Saxena,34,Female,12-03-2024,Bronze,Bhopal,Madhya Pradesh,India,,Referral,FALSE
+587509,Tara,Rao,29,Male,15-06-2025,Bronze,Mumbai,Maharashtra,India,165800,Social Media,FALSE
+589742,Maya,Pillai,36,Female,20-02-2024,Bronze,Pune,Maharashtra,India,125000,Paid Search,FALSE
+589919,Pooja,Patel,30,Male,27-05-2024,Bronze,Hyderabad,Telangana,India,41200,Social Media,FALSE
+590308,Maya,Shah,61,Female,18-07-2024,Bronze,Kolkata,West Bengal,India,182600,Social Media,FALSE
+590904,Zoya,Rao,50,Female,01-06-2025,Bronze,Indore,Madhya Pradesh,India,87500,Organic Search,FALSE
+593026,Priya,Kumar,36,Male,30-07-2025,Bronze,Bengaluru,Karnataka,India,57600,Paid Search,FALSE
+593494,Isha,Saxena,31,Female,10-09-2024,Bronze,Delhi,Delhi,India,43300,Direct,FALSE
+593595,Karan,Malhotra,43,Male,17-09-2024,Bronze,Chennai,Tamil Nadu,India,100800,Paid Search,FALSE
+594362,Ishaan,Desai,38,,23-07-2025,Bronze,Pune,Maharashtra,India,75100,Referral,FALSE
+595211,Zoya,Sinha,37,Male,28-11-2025,Silver,Chennai,Tamil Nadu,India,131800,,FALSE
+595261,Sneha,Sethi,33,Female,13-01-2024,Gold,Coimbatore,Tamil Nadu,India,31700,Paid Search,FALSE
+597030,Maya,Singh,24,Male,10-08-2025,Bronze,Ahmedabad,Gujarat,India,75200,Direct,TRUE
+597422,Pooja,Choudhary,35,Male,12-12-2024,Bronze,Delhi,Delhi,India,71500,Organic Search,FALSE
+598862,Avni,Jain,18,Male,02-01-2025,Bronze,Pune,Maharashtra,India,99800,Email,FALSE
+599639,Ananya,Das,18,Female,06-04-2024,Silver,Surat,Gujarat,India,46500,Social Media,FALSE
+600283,Maya,Verma,27,Male,08-06-2024,Silver,Kolkata,West Bengal,India,84700,Paid Search,FALSE
+601222,Rohan,Chopra,53,Male,25-08-2025,Bronze,Mumbai,Maharashtra,India,42400,Organic Search,FALSE
+601832,Priya,Sharma,19,Male,12-12-2025,Silver,Delhi,Delhi,India,67000,Organic Search,FALSE
+602650,Kavya,Gupta,32,Female,12-02-2025,Silver,Ahmedabad,Gujarat,India,54300,Email,FALSE
+602868,Pooja,Agarwal,37,Female,22-09-2024,Silver,Mumbai,Maharashtra,India,107200,Direct,FALSE
+603463,Nisha,Saxena,22,Male,18-06-2025,Bronze,Kochi,Kerala,India,34100,Direct,FALSE
+603568,Vivaan,Desai,20,Male,29-07-2024,Silver,Hyderabad,Telangana,India,74600,Affiliate,FALSE
+603631,Maya,Pillai,45,Male,18-04-2024,Silver,Bengaluru,Karnataka,India,87300,Social Media,FALSE
+603694,Aarav,Patel,18,Male,23-07-2024,Silver,Mumbai,Maharashtra,India,29100,Email,FALSE
+604653,Sneha,Malhotra,40,Male,26-09-2025,Bronze,Hyderabad,Telangana,India,68900,Social Media,FALSE
+606265,Sana,Pillai,44,Female,09-08-2024,Bronze,Delhi,Delhi,India,55700,Referral,FALSE
+606957,Pooja,Pillai,29,Female,01-04-2025,Silver,Nagpur,Maharashtra,India,65500,Direct,FALSE
+609179,Aarav,Patel,40,Male,02-12-2025,Bronze,Bengaluru,Karnataka,India,68100,Organic Search,TRUE
+609210,Kabir,Agarwal,38,Male,02-03-2025,Bronze,Kochi,Kerala,India,129300,Email,FALSE
+609424,Isha,Sharma,34,Male,01-11-2025,Bronze,Delhi,Delhi,India,91000,Paid Search,FALSE
+610143,Sneha,Gupta,31,Male,10-07-2025,Bronze,Kolkata,West Bengal,India,97900,Social Media,FALSE
+610306,Neha,Sinha,28,Male,08-04-2024,Silver,Delhi,Delhi,India,104200,Paid Search,FALSE
+610714,Nisha,Gupta,34,Female,10-12-2025,Bronze,Chandigarh,Chandigarh,India,41000,Social Media,FALSE
+611013,Ananya,Banerjee,42,Male,11-03-2025,Bronze,Mumbai,Maharashtra,India,75700,Direct,FALSE
+611808,Meera,Desai,35,Female,28-07-2025,Bronze,Mumbai,Maharashtra,India,,Email,FALSE
+612848,Neha,Reddy,30,Female,20-09-2024,Bronze,Chandigarh,Chandigarh,India,67900,Email,FALSE
+613409,Aanya,Nair,34,Female,30-07-2025,Bronze,Mumbai,Maharashtra,India,137300,Paid Search,FALSE
+613678,Rohan,Gupta,27,Male,02-03-2025,Bronze,Hyderabad,Telangana,India,89500,Social Media,TRUE
+614046,Rahul,Jain,27,Female,07-10-2024,Silver,Hyderabad,Telangana,India,54500,Direct,FALSE
+614405,Reyansh,Shah,41,Male,25-05-2025,Silver,Kochi,Kerala,India,67600,Paid Search,FALSE
+614426,Karan,Desai,41,Female,22-11-2025,Bronze,Lucknow,Uttar Pradesh,India,84900,Referral,FALSE
+614894,Sara,Rao,23,Non-binary,04-07-2025,Bronze,Bengaluru,Karnataka,India,66500,Direct,FALSE
+615369,Meera,Agarwal,43,Female,21-11-2025,Bronze,Noida,Uttar Pradesh,India,61500,Organic Search,FALSE
+617518,Simran,Bansal,46,Female,19-10-2025,Silver,Chennai,Tamil Nadu,India,81700,Social Media,FALSE
+617679,Aanya,Mishra,33,Non-binary,27-02-2025,Bronze,Pune,Maharashtra,India,158600,Email,FALSE
+617943,Simran,Gupta,27,Female,30-12-2025,Bronze,Lucknow,Uttar Pradesh,India,29100,Referral,FALSE
+618864,Pooja,Desai,34,Male,17-06-2025,Silver,Kochi,Kerala,India,80400,Organic Search,FALSE
+619716,Karan,Kumar,32,Male,20-10-2025,Bronze,Nagpur,Maharashtra,India,86400,Organic Search,TRUE
+620673,Meera,Chopra,28,Prefer not to say,21-06-2025,Bronze,Kolkata,West Bengal,India,102400,Social Media,FALSE
+621203,Aditya,Reddy,18,Female,14-11-2025,Bronze,Chennai,Tamil Nadu,India,,Affiliate,FALSE
+621502,Nisha,Malhotra,25,Male,22-06-2025,Silver,Mumbai,Maharashtra,India,60900,Organic Search,FALSE
+623103,Sana,Menon,33,Female,09-04-2024,Bronze,Surat,Gujarat,India,54600,Referral,FALSE
+623496,Diya,Jain,52,Male,09-04-2024,Bronze,Pune,Maharashtra,India,55600,Paid Search,FALSE
+623582,Karan,Mehta,33,Male,28-05-2025,Silver,Lucknow,Uttar Pradesh,India,48900,Organic Search,TRUE
+624815,Reyansh,Joshi,51,Female,15-09-2025,Silver,Delhi,Delhi,India,52300,Organic Search,FALSE
+626358,Pooja,Gupta,30,Male,10-10-2025,Bronze,Bengaluru,Karnataka,India,75000,Organic Search,FALSE
+626829,Isha,Bansal,45,Male,16-06-2024,Bronze,Bengaluru,Karnataka,India,73600,Referral,FALSE
+629106,Riya,Sharma,53,Male,31-01-2025,Bronze,Mumbai,Maharashtra,India,64700,Social Media,FALSE
+629794,Karan,Joshi,30,Male,07-09-2025,Bronze,Chennai,Tamil Nadu,India,,Referral,FALSE
+631627,Priya,Agarwal,23,Male,25-02-2024,Silver,Hyderabad,Telangana,India,89100,Organic Search,FALSE
+631873,Aarav,Sethi,33,Male,07-09-2025,Bronze,Delhi,Delhi,India,72500,Paid Search,FALSE
+632022,Kavya,Rao,23,Female,22-09-2025,Silver,Delhi,Delhi,India,22000,Direct,FALSE
+633839,Aarav,Verma,33,Prefer not to say,17-01-2024,Silver,Bengaluru,Karnataka,India,64400,Organic Search,FALSE
+634593,Reyansh,Malhotra,30,Male,16-07-2025,Bronze,Surat,Gujarat,India,38900,Email,FALSE
+634784,Rohan,Verma,49,Male,10-10-2025,Bronze,Bhopal,Madhya Pradesh,India,83400,Affiliate,FALSE
+635748,Rohan,Sinha,33,Prefer not to say,28-06-2024,Silver,Noida,Uttar Pradesh,India,56400,Paid Search,FALSE
+636319,Kiara,Kumar,30,Male,26-07-2025,Silver,Hyderabad,Telangana,India,43000,Paid Search,FALSE
+636388,Zoya,Reddy,57,Female,09-04-2025,Bronze,Pune,Maharashtra,India,64800,Organic Search,FALSE
+636686,Rohan,Nair,47,Male,04-11-2025,Bronze,Kolkata,West Bengal,India,,Affiliate,FALSE
+637248,Zoya,Nair,27,Female,11-11-2025,Bronze,Lucknow,Uttar Pradesh,India,56600,Social Media,FALSE
+637618,Aditya,Reddy,44,Male,28-11-2025,Silver,Ahmedabad,Gujarat,India,31700,Organic Search,TRUE
+638740,Avni,Sharma,34,Female,25-09-2025,Silver,Mumbai,Maharashtra,India,51400,Social Media,FALSE
+640753,Ishaan,Singh,55,Female,19-10-2025,Bronze,Kolkata,West Bengal,India,72200,Organic Search,FALSE
+640870,Isha,Joshi,48,Female,14-07-2025,Bronze,Bengaluru,Karnataka,India,96900,Affiliate,FALSE
+642321,Tara,Desai,25,Female,04-05-2024,Silver,Surat,Gujarat,India,50700,Social Media,FALSE
+642670,Karan,Kumar,26,Female,09-06-2025,Bronze,Mumbai,Maharashtra,India,50600,Affiliate,FALSE
+644428,Avni,Bansal,53,Male,22-07-2024,Silver,Kolkata,West Bengal,India,84900,Paid Search,FALSE
+644492,Karan,Reddy,31,Female,27-05-2024,Silver,Bengaluru,Karnataka,India,36400,Organic Search,FALSE
+644853,Neha,Agarwal,18,Female,03-05-2024,Silver,Kolkata,West Bengal,India,53100,Organic Search,TRUE
+645407,Meera,Iyer,25,Female,03-03-2024,Bronze,Mumbai,Maharashtra,India,98500,Paid Search,TRUE
+646070,Aanya,Sinha,21,Male,25-11-2024,Bronze,Delhi,Delhi,India,62000,Paid Search,FALSE
+646569,Kavya,Singh,27,Female,28-10-2024,Bronze,Mumbai,Maharashtra,India,42600,Organic Search,FALSE
+647542,Priya,Mishra,19,Female,28-09-2024,Bronze,Kolkata,West Bengal,India,49400,Paid Search,FALSE
+648250,Maya,Singh,32,Male,13-05-2025,Bronze,Mumbai,Maharashtra,India,52600,Affiliate,FALSE
+648746,Kavya,Chopra,28,Male,27-04-2024,Gold,Bengaluru,Karnataka,India,103100,Organic Search,FALSE
+649302,Sana,Chopra,51,Female,16-05-2025,Bronze,Bengaluru,Karnataka,India,49100,Social Media,FALSE
+650409,Rahul,Das,32,Male,16-02-2025,Bronze,Coimbatore,Tamil Nadu,India,82600,Organic Search,TRUE
+651191,Nisha,Menon,43,Female,04-03-2024,Silver,Kolkata,West Bengal,India,52900,Referral,TRUE
+651709,Rohan,Joshi,21,Male,20-11-2024,Silver,Mumbai,Maharashtra,India,56100,Social Media,FALSE
+654045,Aditya,Singh,18,Female,24-09-2025,Bronze,Pune,Maharashtra,India,52000,Referral,FALSE
+654376,Aanya,Jain,21,Male,22-02-2025,Bronze,Jaipur,Rajasthan,India,74500,Direct,FALSE
+655361,Ishaan,Mehta,27,Male,07-12-2024,Silver,Chennai,Tamil Nadu,India,22000,Organic Search,FALSE
+655911,Rohan,Sharma,20,Male,25-06-2024,Bronze,Kolkata,West Bengal,India,50300,Email,TRUE
+658023,Tara,Shah,30,Female,30-11-2025,Bronze,Bengaluru,Karnataka,India,65400,Direct,FALSE
+661104,Tara,Agarwal,30,Male,21-11-2025,Bronze,Jaipur,Rajasthan,India,100000,Direct,FALSE
+661978,Maya,Singh,32,,16-05-2025,Bronze,Coimbatore,Tamil Nadu,India,,Referral,FALSE
+663050,Priya,Menon,36,Male,25-04-2025,Bronze,Ahmedabad,Gujarat,India,76700,Social Media,FALSE
+663897,Sneha,Pillai,29,Female,07-01-2025,Bronze,Mumbai,Maharashtra,India,109000,Social Media,FALSE
+666114,Simran,Mishra,35,Female,09-02-2025,Bronze,Delhi,Delhi,India,146400,Social Media,FALSE
+668369,Neha,Khanna,62,Male,07-09-2025,Bronze,Bengaluru,Karnataka,India,49800,Referral,FALSE
+670862,Pooja,Mishra,45,Male,13-03-2025,Silver,Surat,Gujarat,India,99200,Organic Search,FALSE
+670988,Rohan,Rao,46,Male,06-06-2025,Bronze,Bengaluru,Karnataka,India,39300,Email,FALSE
+671302,Maya,Khanna,32,Male,09-06-2025,Bronze,Mumbai,Maharashtra,India,25700,Organic Search,FALSE
+671644,Priya,Mehta,20,Male,27-01-2024,Gold,Delhi,Delhi,India,79000,Organic Search,FALSE
+672034,Sana,Singh,37,Female,04-08-2025,Bronze,Ahmedabad,Gujarat,India,89100,Affiliate,FALSE
+672334,Nisha,Saxena,27,Male,27-04-2025,Bronze,Pune,Maharashtra,India,61500,Organic Search,FALSE
+672689,Aanya,Sharma,37,Male,20-11-2025,Bronze,Ahmedabad,Gujarat,India,,Social Media,FALSE
+674262,Vivaan,Nair,42,Male,18-01-2024,Bronze,Jaipur,Rajasthan,India,,Organic Search,FALSE
+674785,Arjun,Khanna,38,Female,24-06-2025,Silver,Bengaluru,Karnataka,India,49800,Social Media,FALSE
+676003,Kabir,Shah,34,Male,27-08-2025,Bronze,Ahmedabad,Gujarat,India,41500,Social Media,FALSE
+676196,Ishaan,Khanna,59,Non-binary,26-11-2024,Bronze,Bengaluru,Karnataka,India,42100,Referral,FALSE
+676565,Zoya,Banerjee,32,Male,09-02-2025,Bronze,Hyderabad,Telangana,India,68600,Affiliate,FALSE
+677141,Tara,Agarwal,43,Male,16-02-2024,Silver,Delhi,Delhi,India,66400,Paid Search,FALSE
+678061,Sara,Patel,36,Female,06-12-2025,Bronze,Delhi,Delhi,India,36800,Email,TRUE
+678897,Sana,Kapoor,26,Male,15-09-2025,Silver,Delhi,Delhi,India,104300,Affiliate,TRUE
+680558,Priya,Saxena,35,Male,30-11-2025,Bronze,Bengaluru,Karnataka,India,82800,Affiliate,FALSE
+681860,Maya,Agarwal,37,Male,01-10-2024,Bronze,Kolkata,West Bengal,India,53100,Organic Search,FALSE
+682171,Neha,Rao,36,Male,04-08-2025,Bronze,Bengaluru,Karnataka,India,46700,Paid Search,FALSE
+682522,Ishaan,Khanna,26,Male,24-11-2025,Bronze,Hyderabad,Telangana,India,102000,Direct,FALSE
+682946,Rohan,Desai,44,Male,23-02-2024,Gold,Indore,Madhya Pradesh,India,62000,Email,FALSE
+683169,Aanya,Nair,30,Female,01-01-2024,Bronze,Lucknow,Uttar Pradesh,India,28600,Referral,FALSE
+683234,Avni,Verma,43,Female,09-03-2025,Bronze,Surat,Gujarat,India,61700,Organic Search,TRUE
+683367,Avni,Agarwal,26,Female,13-06-2024,Silver,Delhi,Delhi,India,67400,Referral,FALSE
+683867,Nisha,Bansal,24,Female,28-09-2025,Bronze,Mumbai,Maharashtra,India,43900,Affiliate,TRUE
+684212,Maya,Desai,45,Male,10-11-2025,Bronze,Delhi,Delhi,India,70700,Paid Search,FALSE
+684770,Aditya,Sinha,42,Male,17-07-2025,Bronze,Kolkata,West Bengal,India,64100,Organic Search,FALSE
+684939,Sana,Agarwal,48,Male,15-06-2024,Bronze,Chennai,Tamil Nadu,India,45100,Affiliate,FALSE
+685812,Aanya,Singh,47,Female,07-12-2025,Silver,Bhopal,Madhya Pradesh,India,64500,Paid Search,FALSE
+686046,Ishaan,Patel,46,Male,25-08-2024,Bronze,Chennai,Tamil Nadu,India,39600,Email,TRUE
+686062,Nisha,Chopra,28,Female,12-08-2024,Silver,Mumbai,Maharashtra,India,65700,Referral,FALSE
+686303,Avni,Mehta,28,Male,02-03-2025,Silver,Ahmedabad,Gujarat,India,86300,Paid Search,FALSE
+687769,Avni,Kapoor,30,Male,17-09-2025,Bronze,Delhi,Delhi,India,66000,Email,FALSE
+689987,Arjun,Nair,36,Male,29-07-2024,Silver,Delhi,Delhi,India,41700,Organic Search,FALSE
+690505,Maya,Gupta,28,Female,14-03-2025,Silver,Delhi,Delhi,India,107900,Referral,FALSE
+690969,Meera,Desai,37,Female,03-03-2025,Silver,Delhi,Delhi,India,84300,Organic Search,FALSE
+691791,Arjun,Desai,42,Female,06-10-2024,Silver,Mumbai,Maharashtra,India,45500,Organic Search,FALSE
+692311,Kavya,Bansal,40,Male,09-11-2025,Bronze,Mumbai,Maharashtra,India,82300,Paid Search,FALSE
+692670,Kabir,Gupta,24,Male,10-06-2025,Bronze,Bengaluru,Karnataka,India,48100,Affiliate,FALSE
+693788,Pooja,Das,29,Male,27-04-2024,Bronze,Mumbai,Maharashtra,India,24600,Organic Search,FALSE
+694949,Ananya,Malhotra,18,Prefer not to say,24-11-2024,Silver,Pune,Maharashtra,India,68100,Direct,FALSE
+694959,Rohan,Iyer,66,Male,31-12-2025,Silver,Mumbai,Maharashtra,India,52300,Direct,FALSE
+695125,Kiara,Sinha,43,Male,23-05-2025,Bronze,Pune,Maharashtra,India,,Paid Search,FALSE
+695358,Ishaan,Pillai,37,Male,01-03-2025,Silver,Jaipur,Rajasthan,India,47300,Paid Search,TRUE
+696890,Karan,Kumar,37,Male,01-01-2025,Bronze,Lucknow,Uttar Pradesh,India,100600,Social Media,FALSE
+697719,Ishaan,Sethi,28,Female,06-09-2024,Silver,Kolkata,West Bengal,India,53900,Paid Search,TRUE
+698644,Ishaan,Menon,35,Female,29-03-2024,Silver,Delhi,Delhi,India,36500,Organic Search,FALSE
+698839,Avni,Sethi,53,Female,04-04-2025,Bronze,Noida,Uttar Pradesh,India,68700,Organic Search,FALSE
+698964,Ananya,Kumar,49,,08-01-2024,Silver,Delhi,Delhi,India,60100,Organic Search,FALSE
+701014,Kabir,Sinha,18,Female,16-10-2025,Silver,Pune,Maharashtra,India,34800,Affiliate,FALSE
+701235,Kiara,Mishra,41,Male,04-11-2024,Bronze,Pune,Maharashtra,India,114500,Direct,FALSE
+701726,Sneha,Kapoor,36,Male,16-08-2024,Silver,Mumbai,Maharashtra,India,60400,Direct,FALSE
+702085,Simran,Patel,38,Female,15-09-2024,Bronze,Delhi,Delhi,India,93100,,FALSE
+704565,Sara,Sethi,30,Female,11-07-2025,Bronze,Ahmedabad,Gujarat,India,48300,Email,FALSE
+705503,Rohan,Kumar,57,Male,23-09-2025,Bronze,Kolkata,West Bengal,India,30900,Affiliate,FALSE
+705771,Kabir,Bansal,28,Female,17-08-2025,Bronze,Mumbai,Maharashtra,India,65900,Affiliate,FALSE
+706543,Karan,Nair,25,Prefer not to say,31-01-2024,Silver,Bengaluru,Karnataka,India,49700,Referral,FALSE
+706997,Rohan,Sinha,45,Male,01-11-2024,Silver,Pune,Maharashtra,India,54200,Organic Search,FALSE
+707613,Tara,Pillai,39,Female,22-08-2025,Silver,Lucknow,Uttar Pradesh,India,,Social Media,FALSE
+707921,Maya,Banerjee,37,Female,27-11-2025,Bronze,Chennai,Tamil Nadu,India,161100,Organic Search,FALSE
+708218,Karan,Shah,32,,22-04-2024,Silver,Ahmedabad,Gujarat,India,39600,Direct,FALSE
+708547,Rohan,Jain,40,Female,17-05-2024,Silver,Lucknow,Uttar Pradesh,India,51400,Affiliate,FALSE
+709126,Neha,Kumar,32,Male,18-06-2025,Bronze,Jaipur,Rajasthan,India,71100,Paid Search,FALSE
+710023,Rahul,Menon,20,Female,02-11-2024,Bronze,Ahmedabad,Gujarat,India,,Organic Search,FALSE
+710128,Isha,Desai,39,Female,02-02-2025,Bronze,Ahmedabad,Gujarat,India,40500,Organic Search,FALSE
+710236,Kavya,Nair,37,Female,30-12-2025,Bronze,Kolkata,West Bengal,India,46200,Organic Search,FALSE
+710795,Kabir,Banerjee,31,Female,08-07-2025,Bronze,Bengaluru,Karnataka,India,65800,Email,FALSE
+711233,Sana,Singh,25,Female,05-07-2025,Bronze,Chennai,Tamil Nadu,India,45600,Organic Search,FALSE
+711803,Vivaan,Kumar,19,Female,22-11-2024,Bronze,Pune,Maharashtra,India,55500,Direct,FALSE
+712217,Kiara,Choudhary,38,Female,06-05-2025,Bronze,Delhi,Delhi,India,59500,Social Media,TRUE
+712679,Reyansh,Joshi,38,Female,30-09-2024,Silver,Mumbai,Maharashtra,India,56800,Organic Search,FALSE
+713977,Nisha,Pillai,40,Female,16-11-2024,Bronze,Chennai,Tamil Nadu,India,,Affiliate,FALSE
+715227,Sara,Pillai,37,Male,26-06-2025,Silver,Chennai,Tamil Nadu,India,66400,Social Media,FALSE
+717014,Kavya,Rao,33,Male,03-05-2024,Bronze,Bengaluru,Karnataka,India,50300,Social Media,FALSE
+717362,Aanya,Patel,42,Male,30-03-2024,Bronze,Kolkata,West Bengal,India,40000,Organic Search,FALSE
+719406,Meera,Agarwal,31,,20-02-2025,Silver,Hyderabad,Telangana,India,82200,Social Media,FALSE
+721822,Sneha,Jain,39,Female,14-09-2025,Silver,Mumbai,Maharashtra,India,103600,Social Media,FALSE
+721866,Kiara,Malhotra,48,Male,27-01-2024,Silver,Mumbai,Maharashtra,India,45700,Referral,FALSE
+722085,Rahul,Mehta,39,Female,22-12-2025,Silver,Jaipur,Rajasthan,India,59000,Paid Search,FALSE
+722093,Kabir,Nair,23,Female,30-12-2024,Bronze,Mumbai,Maharashtra,India,32100,Referral,FALSE
+723192,Sana,Saxena,34,Female,20-06-2025,Bronze,Indore,Madhya Pradesh,India,43400,Social Media,FALSE
+723465,Diya,Verma,30,Male,19-07-2025,Bronze,Delhi,Delhi,India,60200,Organic Search,TRUE
+726019,Aditya,Banerjee,40,Male,13-01-2024,Silver,Surat,Gujarat,India,102900,Affiliate,FALSE
+726733,Kabir,Agarwal,50,Male,02-08-2024,Bronze,Mumbai,Maharashtra,India,106400,Referral,FALSE
+726894,Rahul,Menon,40,Female,15-04-2025,Silver,Mumbai,Maharashtra,India,97900,Email,FALSE
+727149,Reyansh,Sinha,60,Male,24-07-2024,Bronze,Mumbai,Maharashtra,India,57000,Paid Search,FALSE
+729643,Avni,Kapoor,26,Female,05-06-2025,Bronze,Pune,Maharashtra,India,94400,Organic Search,FALSE
+729967,Karan,Nair,27,Female,09-09-2024,Silver,Bengaluru,Karnataka,India,47100,Direct,FALSE
+731007,Pooja,Choudhary,40,Male,02-06-2024,Silver,Bengaluru,Karnataka,India,66500,Organic Search,FALSE
+731831,Vivaan,Khanna,40,Male,24-02-2025,Bronze,Bengaluru,Karnataka,India,69900,Referral,FALSE
+731971,Diya,Gupta,29,Male,23-06-2024,Bronze,Delhi,Delhi,India,71800,Social Media,TRUE
+732254,Tara,Malhotra,53,Prefer not to say,01-10-2025,Bronze,Mumbai,Maharashtra,India,39600,Paid Search,FALSE
+733248,Nisha,Desai,46,Female,10-05-2024,Bronze,Bengaluru,Karnataka,India,64000,Organic Search,FALSE
+735116,Kabir,Choudhary,41,Female,22-08-2025,Silver,Chennai,Tamil Nadu,India,22000,Organic Search,FALSE
+735875,Kavya,Kumar,36,Male,13-05-2024,Bronze,Bengaluru,Karnataka,India,98300,Direct,FALSE
+737191,Pooja,Agarwal,28,Male,21-01-2024,Gold,Chennai,Tamil Nadu,India,101200,Organic Search,TRUE
+738137,Priya,Sethi,32,Male,12-06-2024,Bronze,Kochi,Kerala,India,,Organic Search,FALSE
+738609,Maya,Chopra,52,Male,28-07-2024,Bronze,Kochi,Kerala,India,40200,Paid Search,TRUE
+738812,Vivaan,Sinha,37,Female,24-04-2024,Silver,Mumbai,Maharashtra,India,38600,Social Media,FALSE
+740145,Rahul,Desai,45,Male,11-01-2025,Silver,Hyderabad,Telangana,India,88900,Direct,FALSE
+741413,Nisha,Jain,32,Female,29-08-2025,Bronze,Mumbai,Maharashtra,India,95900,Organic Search,FALSE
+741739,Meera,Malhotra,41,Male,03-06-2024,Silver,Bhopal,Madhya Pradesh,India,131000,Affiliate,FALSE
+742401,Isha,Desai,18,Male,01-01-2025,Bronze,Bengaluru,Karnataka,India,37300,Social Media,FALSE
+742541,Zoya,Banerjee,35,Female,16-04-2025,Silver,Mumbai,Maharashtra,India,73900,Social Media,FALSE
+743978,Kabir,Iyer,38,Male,24-02-2024,Bronze,Bengaluru,Karnataka,India,90800,Direct,FALSE
+744677,Sana,Menon,47,,09-09-2024,Silver,Delhi,Delhi,India,68300,Email,FALSE
+744824,Priya,Pillai,31,Female,08-03-2025,Bronze,Bengaluru,Karnataka,India,107300,Direct,FALSE
+745205,Sneha,Sharma,22,Female,11-07-2024,Silver,Lucknow,Uttar Pradesh,India,215900,Paid Search,FALSE
+746996,Ananya,Gupta,30,Female,15-10-2025,Bronze,Hyderabad,Telangana,India,39400,Paid Search,FALSE
+747416,Neha,Malhotra,18,Male,22-09-2024,Bronze,Noida,Uttar Pradesh,India,46300,Referral,FALSE
+750198,Priya,Shah,21,Female,17-06-2024,Silver,Hyderabad,Telangana,India,98000,Social Media,FALSE
+750637,Ananya,Kumar,34,Prefer not to say,01-04-2025,Silver,Kolkata,West Bengal,India,59100,Paid Search,FALSE
+751044,Vivaan,Joshi,41,,20-08-2025,Bronze,Nagpur,Maharashtra,India,44900,Paid Search,FALSE
+751476,Reyansh,Menon,40,Female,19-04-2024,Bronze,Kolkata,West Bengal,India,,Referral,FALSE
+751689,Sana,Gupta,29,Male,01-02-2025,Silver,Mumbai,Maharashtra,India,105800,Organic Search,FALSE
+752725,Sneha,Choudhary,31,Male,14-08-2024,Bronze,Delhi,Delhi,India,89600,Organic Search,FALSE
+753025,Maya,Agarwal,59,Male,14-11-2025,Silver,Mumbai,Maharashtra,India,69900,Social Media,FALSE
+754071,Kiara,Khanna,40,Female,08-01-2024,Silver,Bengaluru,Karnataka,India,95800,Organic Search,FALSE
+754694,Pooja,Saxena,51,Female,30-03-2025,Bronze,Pune,Maharashtra,India,59600,Organic Search,FALSE
+756384,Sneha,Verma,32,Female,01-11-2024,Silver,Pune,Maharashtra,India,163500,Direct,FALSE
+756841,Simran,Gupta,37,Female,08-05-2025,Bronze,Pune,Maharashtra,India,27000,Organic Search,TRUE
+758485,Arjun,Sinha,35,Female,22-05-2025,Bronze,Bengaluru,Karnataka,India,126700,Social Media,FALSE
+760221,Rahul,Agarwal,35,Male,21-09-2024,Bronze,Hyderabad,Telangana,India,50100,Social Media,FALSE
+760624,Kabir,Chopra,31,Male,25-04-2025,Silver,Bhopal,Madhya Pradesh,India,27700,Referral,FALSE
+761245,Pooja,Kumar,39,Female,24-04-2025,Bronze,Pune,Maharashtra,India,48600,Organic Search,FALSE
+761740,Isha,Verma,26,Male,12-09-2024,Silver,Delhi,Delhi,India,63200,Organic Search,FALSE
+764466,Pooja,Rao,38,Female,09-10-2025,Bronze,Bengaluru,Karnataka,India,112300,Referral,FALSE
+764566,Aanya,Shah,20,Female,16-06-2025,Bronze,Delhi,Delhi,India,80900,Social Media,TRUE
+766287,Vivaan,Shah,36,Female,09-10-2025,Bronze,Delhi,Delhi,India,71900,Social Media,FALSE
+766393,Pooja,Khanna,18,Female,01-01-2025,Bronze,Bengaluru,Karnataka,India,93100,Paid Search,FALSE
+766905,Aanya,Nair,28,Male,28-12-2025,Bronze,Mumbai,Maharashtra,India,34500,Social Media,FALSE
+768068,Rahul,Verma,40,Non-binary,30-11-2025,Silver,Nagpur,Maharashtra,India,81500,Paid Search,FALSE
+772499,Riya,Kapoor,32,Female,23-12-2025,Silver,Mumbai,Maharashtra,India,75200,Social Media,FALSE
+772852,Avni,Iyer,44,Female,06-06-2025,Bronze,Mumbai,Maharashtra,India,37100,Direct,FALSE
+774026,Nisha,Kumar,30,Male,20-07-2024,Bronze,Chennai,Tamil Nadu,India,135900,Organic Search,FALSE
+774535,Sana,Reddy,40,Female,12-11-2025,Bronze,Mumbai,Maharashtra,India,42600,Organic Search,FALSE
+776421,Sara,Kapoor,52,Male,17-11-2025,Bronze,Bengaluru,Karnataka,India,45300,Organic Search,FALSE
+776703,Diya,Reddy,24,Male,11-11-2024,Silver,Hyderabad,Telangana,India,34500,Referral,TRUE
+777939,Rahul,Reddy,26,Prefer not to say,04-06-2025,Bronze,Chennai,Tamil Nadu,India,49400,Social Media,FALSE
+778249,Neha,Nair,28,Male,12-10-2024,Bronze,Jaipur,Rajasthan,India,22000,Referral,FALSE
+778728,Diya,Singh,46,Female,20-06-2025,Bronze,Mumbai,Maharashtra,India,30500,Organic Search,FALSE
+783827,Avni,Malhotra,33,Male,27-06-2024,Silver,Hyderabad,Telangana,India,168200,Paid Search,FALSE
+784248,Kavya,Das,20,Male,08-03-2024,Gold,Jaipur,Rajasthan,India,65900,Organic Search,FALSE
+785070,Kavya,Gupta,35,Male,17-09-2025,Bronze,Lucknow,Uttar Pradesh,India,146600,Social Media,FALSE
+785758,Kabir,Kapoor,36,Male,03-12-2024,Bronze,Lucknow,Uttar Pradesh,India,57200,Organic Search,FALSE
+786341,Diya,Bansal,32,Male,25-07-2024,Silver,Nagpur,Maharashtra,India,43700,Referral,FALSE
+787686,Ishaan,Bansal,36,Female,28-07-2024,Silver,Delhi,Delhi,India,114300,Organic Search,FALSE
+789768,Simran,Joshi,42,Female,09-06-2024,Bronze,Mumbai,Maharashtra,India,37000,Paid Search,FALSE
+793473,Vivaan,Das,35,Prefer not to say,03-05-2025,Bronze,Bengaluru,Karnataka,India,66700,Organic Search,FALSE
+794638,Tara,Malhotra,44,Male,01-05-2025,Bronze,Hyderabad,Telangana,India,,Organic Search,FALSE
+795823,Maya,Malhotra,25,Male,17-12-2024,Bronze,Delhi,Delhi,India,,Referral,FALSE
+796294,Ishaan,Khanna,28,Female,21-07-2025,Bronze,Hyderabad,Telangana,India,56200,Referral,FALSE
+796906,Diya,Nair,45,Female,16-05-2024,Silver,Hyderabad,Telangana,India,54700,Organic Search,FALSE
+797674,Tara,Das,46,Female,22-04-2025,Silver,Hyderabad,Telangana,India,105100,Organic Search,FALSE
+798628,Meera,Rao,35,Male,02-11-2025,Silver,Bengaluru,Karnataka,India,40500,Social Media,FALSE
+798962,Rohan,Reddy,30,Female,18-03-2025,Silver,Surat,Gujarat,India,39900,Social Media,FALSE
+800216,Karan,Choudhary,39,Male,26-12-2025,Silver,Pune,Maharashtra,India,50000,Email,FALSE
+800922,Ananya,Bansal,39,Male,07-03-2025,Bronze,Pune,Maharashtra,India,54300,Organic Search,FALSE
+800936,Priya,Banerjee,42,Male,27-09-2024,Silver,Surat,Gujarat,India,84800,Social Media,FALSE
+800982,Rohan,Kapoor,33,Prefer not to say,22-04-2025,Bronze,Ahmedabad,Gujarat,India,,Paid Search,FALSE
+803960,Aanya,Chopra,25,Male,05-08-2024,Bronze,Delhi,Delhi,India,90500,Organic Search,FALSE
+804133,Avni,Menon,34,Male,01-12-2025,Bronze,Pune,Maharashtra,India,60400,Direct,FALSE
+805212,Priya,Verma,20,Male,03-08-2025,Silver,Hyderabad,Telangana,India,60400,Referral,FALSE
+806629,Zoya,Sinha,37,Female,28-12-2025,Bronze,Jaipur,Rajasthan,India,146000,Email,FALSE
+806671,Pooja,Menon,24,Female,01-07-2024,Bronze,Hyderabad,Telangana,India,43200,Direct,FALSE
+806817,Aanya,Banerjee,26,Female,29-05-2025,Silver,Bhopal,Madhya Pradesh,India,,Paid Search,FALSE
+808385,Ananya,Khanna,36,Prefer not to say,18-02-2024,Bronze,Ahmedabad,Gujarat,India,64800,Organic Search,FALSE
+810253,Maya,Sinha,18,Male,12-09-2025,Bronze,Bengaluru,Karnataka,India,87900,Paid Search,FALSE
+811520,Kiara,Banerjee,50,Female,04-10-2025,Silver,Delhi,Delhi,India,43800,Organic Search,FALSE
+811542,Maya,Joshi,38,Female,12-10-2024,Silver,Ahmedabad,Gujarat,India,71300,Paid Search,FALSE
+811596,Rohan,Pillai,37,Male,08-02-2024,Bronze,Hyderabad,Telangana,India,99700,Social Media,FALSE
+812288,Maya,Malhotra,35,Male,30-04-2024,Silver,Kolkata,West Bengal,India,60900,Referral,FALSE
+813219,Aditya,Malhotra,27,Female,28-11-2024,Bronze,Kolkata,West Bengal,India,78800,Social Media,FALSE
+815282,Meera,Agarwal,50,Male,09-06-2025,Bronze,Surat,Gujarat,India,44900,Referral,FALSE
+815904,Neha,Bansal,20,Male,12-01-2025,Bronze,Bengaluru,Karnataka,India,30200,Direct,FALSE
+816237,Maya,Gupta,30,Female,06-02-2024,Bronze,Surat,Gujarat,India,63000,Social Media,FALSE
+817095,Neha,Reddy,20,Male,08-02-2025,Bronze,Bengaluru,Karnataka,India,74600,Organic Search,FALSE
+817291,Riya,Joshi,45,Female,31-03-2024,Silver,Delhi,Delhi,India,97300,Referral,FALSE
+818941,Neha,Pillai,54,,03-02-2025,Silver,Delhi,Delhi,India,66500,Organic Search,FALSE
+819409,Diya,Banerjee,22,Female,22-01-2025,Bronze,Hyderabad,Telangana,India,50200,Social Media,FALSE
+820393,Tara,Choudhary,36,Female,26-07-2025,Bronze,Delhi,Delhi,India,82600,Social Media,FALSE
+820962,Meera,Menon,31,Female,16-06-2024,Silver,Hyderabad,Telangana,India,26500,Email,FALSE
+821770,Reyansh,Kapoor,57,Female,12-01-2025,Bronze,Coimbatore,Tamil Nadu,India,59400,Paid Search,FALSE
+827198,Karan,Iyer,48,Female,12-01-2024,Silver,Kolkata,West Bengal,India,111000,Paid Search,FALSE
+829240,Neha,Sharma,24,Male,15-07-2024,Silver,Indore,Madhya Pradesh,India,86300,Direct,FALSE
+830489,Sana,Mishra,23,Male,01-04-2024,Silver,Bengaluru,Karnataka,India,68900,Organic Search,FALSE
+830682,Ananya,Sethi,45,Non-binary,10-04-2024,Silver,Chennai,Tamil Nadu,India,78600,Organic Search,TRUE
+830784,Meera,Chopra,28,Female,10-11-2025,Bronze,Bhopal,Madhya Pradesh,India,57000,Referral,FALSE
+830954,Aarav,Sinha,45,Male,24-01-2024,Bronze,Surat,Gujarat,India,45400,Social Media,FALSE
+832532,Kiara,Reddy,28,Male,18-06-2024,Silver,Surat,Gujarat,India,50300,Paid Search,FALSE
+833858,Karan,Banerjee,47,Male,14-08-2024,Bronze,Indore,Madhya Pradesh,India,77100,Paid Search,FALSE
+834010,Nisha,Sharma,27,Prefer not to say,01-12-2024,Bronze,Mumbai,Maharashtra,India,53000,Social Media,FALSE
+834029,Vivaan,Singh,40,Female,05-04-2025,Silver,Mumbai,Maharashtra,India,39900,Paid Search,FALSE
+834277,Sneha,Shah,28,Male,24-03-2024,Bronze,Kolkata,West Bengal,India,83900,Social Media,FALSE
+835319,Rahul,Kumar,39,Male,10-11-2025,Bronze,Ahmedabad,Gujarat,India,36900,Email,FALSE
+836021,Kiara,Patel,18,Female,12-09-2024,Silver,Mumbai,Maharashtra,India,,Organic Search,FALSE
+836088,Sneha,Kumar,40,Female,13-01-2025,Bronze,Bengaluru,Karnataka,India,143000,Referral,FALSE
+836940,Pooja,Mehta,32,Male,10-07-2024,Bronze,Delhi,Delhi,India,,Paid Search,FALSE
+837604,Aarav,Sethi,24,Female,20-08-2024,Silver,Indore,Madhya Pradesh,India,81100,Paid Search,FALSE
+838282,Aanya,Joshi,45,Female,30-10-2025,Bronze,Delhi,Delhi,India,55000,Affiliate,FALSE
+839481,Ishaan,Agarwal,52,Female,25-04-2024,Silver,Mumbai,Maharashtra,India,117400,Organic Search,TRUE
+840084,Arjun,Pillai,25,Female,29-05-2025,Silver,Noida,Uttar Pradesh,India,83200,Affiliate,FALSE
+842802,Kiara,Chopra,26,Male,09-04-2024,Silver,Lucknow,Uttar Pradesh,India,65100,Social Media,TRUE
+843493,Maya,Agarwal,29,Male,24-12-2025,Bronze,Bengaluru,Karnataka,India,35400,Paid Search,FALSE
+843601,Aanya,Banerjee,51,Female,13-09-2025,Bronze,Delhi,Delhi,India,38500,Organic Search,FALSE
+843969,Aditya,Banerjee,57,Female,16-12-2024,Bronze,Kochi,Kerala,India,79100,Affiliate,FALSE
+844751,Priya,Desai,33,Female,13-09-2024,Bronze,Mumbai,Maharashtra,India,133100,Social Media,FALSE
+844808,Karan,Sinha,35,Female,12-08-2025,Silver,Delhi,Delhi,India,103500,Email,FALSE
+844820,Meera,Choudhary,18,Female,28-07-2024,Silver,Hyderabad,Telangana,India,97500,Social Media,FALSE
+846202,Isha,Jain,47,Female,30-11-2024,Silver,Delhi,Delhi,India,59700,Paid Search,FALSE
+846949,Zoya,Choudhary,24,Male,17-11-2024,Bronze,Lucknow,Uttar Pradesh,India,88600,Direct,FALSE
+847417,Riya,Saxena,18,Female,04-04-2024,Gold,Surat,Gujarat,India,103400,Referral,FALSE
+848013,Rohan,Gupta,39,Male,16-01-2024,Silver,Nagpur,Maharashtra,India,46900,Paid Search,FALSE
+848256,Reyansh,Nair,29,Male,14-10-2024,Bronze,Hyderabad,Telangana,India,40100,Organic Search,FALSE
+848924,Vivaan,Singh,50,Female,22-02-2025,Silver,Pune,Maharashtra,India,47900,Organic Search,FALSE
+849792,Aarav,Saxena,44,Male,19-01-2025,Bronze,Chandigarh,Chandigarh,India,185600,Social Media,FALSE
+850062,Zoya,Agarwal,31,Male,04-02-2024,Silver,Kochi,Kerala,India,75300,Email,FALSE
+850500,Meera,Choudhary,26,Male,22-08-2024,Bronze,Hyderabad,Telangana,India,87600,Direct,FALSE
+851300,Ananya,Banerjee,25,Female,19-12-2024,Bronze,Ahmedabad,Gujarat,India,56400,Referral,FALSE
+852470,Diya,Agarwal,40,Female,30-07-2025,Silver,Hyderabad,Telangana,India,72000,Organic Search,FALSE
+855779,Aarav,Singh,41,Prefer not to say,19-05-2024,Silver,Kochi,Kerala,India,97000,Paid Search,FALSE
+856418,Meera,Menon,41,Male,13-05-2024,Bronze,Ahmedabad,Gujarat,India,52700,Social Media,TRUE
+857138,Kavya,Agarwal,46,Male,02-12-2024,Bronze,Pune,Maharashtra,India,47400,Direct,TRUE
+857238,Zoya,Menon,32,Female,17-11-2024,Silver,Mumbai,Maharashtra,India,38000,Email,FALSE
+857476,Rohan,Jain,28,Male,18-12-2025,Bronze,Hyderabad,Telangana,India,126300,Organic Search,FALSE
+857885,Avni,Nair,24,Male,05-04-2025,Silver,Noida,Uttar Pradesh,India,75100,Social Media,FALSE
+859409,Diya,Malhotra,45,,20-12-2025,Silver,Hyderabad,Telangana,India,143100,Direct,FALSE
+861211,Sara,Singh,22,Female,24-09-2024,Silver,Delhi,Delhi,India,60300,Organic Search,FALSE
+861740,Meera,Sinha,41,Female,07-04-2024,Gold,Kolkata,West Bengal,India,106800,Direct,FALSE
+864641,Maya,Sharma,18,Male,25-02-2024,Bronze,Kochi,Kerala,India,35500,Referral,FALSE
+866302,Nisha,Pillai,30,Male,27-04-2024,Bronze,Mumbai,Maharashtra,India,46200,Affiliate,FALSE
+866346,Rahul,Sharma,29,Male,20-12-2024,Silver,Hyderabad,Telangana,India,79400,Email,FALSE
+866468,Aditya,Singh,40,Male,28-04-2025,Bronze,Chennai,Tamil Nadu,India,42000,Direct,TRUE
+869164,Zoya,Sharma,40,Female,02-04-2024,Gold,Pune,Maharashtra,India,92100,Email,FALSE
+870085,Isha,Gupta,18,Male,16-06-2024,Gold,Chandigarh,Chandigarh,India,48000,Social Media,FALSE
+870688,Sana,Kapoor,34,Male,13-03-2024,Silver,Bengaluru,Karnataka,India,107300,Paid Search,FALSE
+872600,Avni,Rao,28,Male,12-02-2024,Bronze,Lucknow,Uttar Pradesh,India,67500,Organic Search,FALSE
+872834,Kavya,Gupta,36,Male,25-03-2024,Silver,Indore,Madhya Pradesh,India,41500,Direct,FALSE
+874750,Riya,Das,27,Female,25-07-2025,Silver,Hyderabad,Telangana,India,95700,Affiliate,FALSE
+875948,Kiara,Kapoor,29,Female,25-04-2025,Bronze,Delhi,Delhi,India,82000,Paid Search,TRUE
+876591,Vivaan,Khanna,30,Male,14-12-2024,Silver,Ahmedabad,Gujarat,India,71200,Paid Search,TRUE
+878146,Sara,Jain,26,Male,31-05-2024,Silver,Surat,Gujarat,India,45200,Email,FALSE
+878665,Arjun,Sethi,30,Female,16-05-2024,Bronze,Coimbatore,Tamil Nadu,India,130800,Referral,FALSE
+879394,Karan,Bansal,35,Male,23-09-2024,Silver,Noida,Uttar Pradesh,India,140200,Email,FALSE
+879723,Sneha,Rao,39,Female,23-05-2025,Bronze,Delhi,Delhi,India,64600,Referral,FALSE
+880523,Riya,Reddy,36,Female,10-09-2024,Bronze,Mumbai,Maharashtra,India,44100,Paid Search,FALSE
+881262,Tara,Saxena,47,Female,03-01-2025,Silver,Indore,Madhya Pradesh,India,117300,Paid Search,FALSE
+881953,Kiara,Singh,27,Female,21-09-2025,Silver,Delhi,Delhi,India,115100,Organic Search,FALSE
+882469,Kiara,Joshi,32,Female,08-03-2024,Silver,Kolkata,West Bengal,India,22800,Affiliate,FALSE
+882823,Sara,Shah,42,Female,14-01-2024,Silver,Delhi,Delhi,India,98300,Affiliate,FALSE
+884657,Aarav,Malhotra,45,Male,16-05-2025,Bronze,Surat,Gujarat,India,78400,Organic Search,FALSE
+885301,Aanya,Shah,38,Female,13-11-2025,Bronze,Ahmedabad,Gujarat,India,64700,Referral,FALSE
+885365,Rohan,Kumar,41,Male,08-03-2025,Silver,Hyderabad,Telangana,India,68000,Direct,FALSE
+889358,Meera,Sharma,18,Female,06-01-2025,Bronze,Delhi,Delhi,India,66800,Paid Search,FALSE
+890771,Kavya,Mishra,32,Male,28-03-2025,Bronze,Chennai,Tamil Nadu,India,71600,Paid Search,FALSE
+891343,Reyansh,Malhotra,25,Female,30-09-2025,Bronze,Delhi,Delhi,India,52700,Paid Search,FALSE
+891579,Zoya,Banerjee,40,Female,07-04-2024,Bronze,Hyderabad,Telangana,India,76800,Paid Search,FALSE
+891712,Meera,Sharma,39,Female,21-07-2024,Bronze,Chennai,Tamil Nadu,India,89500,Referral,FALSE
+891747,Rahul,Bansal,29,Male,29-02-2024,Gold,Delhi,Delhi,India,53500,Organic Search,TRUE
+892256,Diya,Shah,35,Male,24-05-2024,Silver,Noida,Uttar Pradesh,India,54100,Email,FALSE
+894122,Nisha,Singh,56,Male,04-09-2024,Bronze,Delhi,Delhi,India,72300,Referral,FALSE
+897009,Aanya,Patel,40,Female,22-01-2024,Silver,Mumbai,Maharashtra,India,101200,Paid Search,FALSE
+897710,Priya,Mishra,23,Male,09-05-2025,Bronze,Hyderabad,Telangana,India,63900,Social Media,FALSE
+897797,Rohan,Agarwal,38,Male,06-11-2025,Bronze,Pune,Maharashtra,India,67100,Email,FALSE
+897888,Rahul,Verma,35,Female,08-01-2025,Bronze,Hyderabad,Telangana,India,80100,Organic Search,TRUE
+900389,Maya,Chopra,32,Male,02-09-2025,Silver,Mumbai,Maharashtra,India,71900,Referral,FALSE
+900979,Aanya,Choudhary,30,Male,19-01-2025,Silver,Mumbai,Maharashtra,India,185600,Social Media,FALSE
+901714,Rohan,Pillai,39,Male,11-01-2024,Silver,Delhi,Delhi,India,52200,Organic Search,FALSE
+905420,Reyansh,Iyer,46,Female,28-12-2024,Silver,Delhi,Delhi,India,74700,Organic Search,FALSE
+907468,Sneha,Khanna,29,Female,06-11-2025,Bronze,Lucknow,Uttar Pradesh,India,104100,Social Media,FALSE
+907796,Reyansh,Bansal,44,Male,30-01-2025,Bronze,Hyderabad,Telangana,India,57900,Organic Search,FALSE
+908569,Vivaan,Rao,31,Male,08-03-2024,Silver,Noida,Uttar Pradesh,India,66500,Direct,FALSE
+912293,Sana,Chopra,27,Male,19-08-2025,Silver,Chandigarh,Chandigarh,India,31000,Referral,FALSE
+913445,Reyansh,Gupta,36,Male,22-03-2024,Gold,Mumbai,Maharashtra,India,39900,Organic Search,FALSE
+913803,Diya,Bansal,35,Male,17-08-2024,Silver,Bengaluru,Karnataka,India,65900,Organic Search,TRUE
+914095,Tara,Verma,35,Male,14-10-2025,Bronze,Mumbai,Maharashtra,India,84900,Direct,FALSE
+915219,Sara,Sharma,20,,25-05-2025,Bronze,Mumbai,Maharashtra,India,78300,Affiliate,FALSE
+915934,Sara,Iyer,40,Female,03-03-2024,Bronze,Jaipur,Rajasthan,India,53300,Affiliate,FALSE
+915964,Maya,Banerjee,24,Non-binary,07-11-2025,Bronze,Delhi,Delhi,India,161200,Organic Search,FALSE
+917060,Kiara,Khanna,35,Female,06-07-2025,Bronze,Chennai,Tamil Nadu,India,157800,Paid Search,FALSE
+917605,Sana,Verma,18,Female,25-04-2025,Bronze,Jaipur,Rajasthan,India,39600,Organic Search,FALSE
+918157,Pooja,Desai,53,Female,18-09-2025,Silver,Delhi,Delhi,India,68500,Paid Search,FALSE
+918292,Sneha,Singh,35,Female,20-11-2024,Bronze,Chennai,Tamil Nadu,India,55800,Direct,FALSE
+918432,Aanya,Banerjee,32,Female,04-12-2025,Bronze,Mumbai,Maharashtra,India,24000,Social Media,TRUE
+918817,Simran,Sharma,29,Female,15-01-2025,Silver,Coimbatore,Tamil Nadu,India,71800,Social Media,FALSE
+919527,Rahul,Verma,38,Female,01-03-2024,Silver,Kolkata,West Bengal,India,76200,Paid Search,FALSE
+919884,Meera,Patel,48,Male,29-08-2025,Silver,Jaipur,Rajasthan,India,41600,Social Media,FALSE
+921050,Kavya,Iyer,44,Male,02-12-2024,Silver,Delhi,Delhi,India,37600,Paid Search,FALSE
+922983,Riya,Nair,25,Female,26-11-2025,Bronze,Pune,Maharashtra,India,48900,Paid Search,FALSE
+923633,Sana,Choudhary,35,Male,19-10-2025,Bronze,Kolkata,West Bengal,India,,Social Media,FALSE
+924729,Aditya,Agarwal,29,Male,14-03-2024,Bronze,Pune,Maharashtra,India,40600,Organic Search,FALSE
+924928,Avni,Saxena,22,Female,25-04-2025,Bronze,Bhopal,Madhya Pradesh,India,87800,Organic Search,TRUE
+925253,Isha,Saxena,46,Female,24-10-2025,Silver,Mumbai,Maharashtra,India,42400,Email,TRUE
+926046,Karan,Mishra,36,Male,12-09-2024,Silver,Bengaluru,Karnataka,India,47100,Referral,FALSE
+926285,Ananya,Mehta,28,Female,21-11-2025,Bronze,Jaipur,Rajasthan,India,71800,Organic Search,FALSE
+927059,Sara,Sharma,29,Male,08-04-2025,Bronze,Ahmedabad,Gujarat,India,46000,Affiliate,FALSE
+927867,Sara,Das,18,Prefer not to say,23-03-2025,Silver,Bengaluru,Karnataka,India,80000,Paid Search,FALSE
+929215,Reyansh,Bansal,36,Female,28-06-2025,Bronze,Hyderabad,Telangana,India,89200,Organic Search,FALSE
+929982,Neha,Verma,44,Non-binary,24-07-2025,Silver,Nagpur,Maharashtra,India,48900,Affiliate,FALSE
+930111,Riya,Bansal,24,Male,18-10-2024,Bronze,Mumbai,Maharashtra,India,,Affiliate,FALSE
+930803,Pooja,Agarwal,39,Male,06-05-2025,Silver,Chennai,Tamil Nadu,India,159300,Organic Search,FALSE
+930911,Nisha,Rao,40,Female,01-12-2025,Bronze,Hyderabad,Telangana,India,91000,Paid Search,FALSE
+933312,Diya,Khanna,21,Male,14-12-2025,Bronze,Delhi,Delhi,India,65200,Organic Search,FALSE
+933457,Isha,Shah,44,Female,23-11-2025,Bronze,Kolkata,West Bengal,India,53900,Referral,TRUE
+934289,Rohan,Nair,28,Female,31-07-2025,Bronze,Jaipur,Rajasthan,India,118500,Organic Search,FALSE
+934458,Ananya,Patel,44,Male,16-05-2024,Silver,Ahmedabad,Gujarat,India,47800,Referral,FALSE
+934700,Tara,Bansal,33,,04-02-2024,Silver,Mumbai,Maharashtra,India,80100,Social Media,FALSE
+935007,Ananya,Agarwal,48,Male,17-09-2024,Silver,Delhi,Delhi,India,122500,Affiliate,FALSE
+935452,Arjun,Verma,30,Female,26-01-2025,Silver,Kolkata,West Bengal,India,40600,Social Media,FALSE
+936313,Nisha,Choudhary,38,Male,01-05-2025,Bronze,Ahmedabad,Gujarat,India,77000,Affiliate,TRUE
+936423,Sneha,Shah,33,Female,04-04-2025,Bronze,Bhopal,Madhya Pradesh,India,144400,Social Media,FALSE
+936924,Diya,Khanna,27,Male,29-04-2024,Silver,Kochi,Kerala,India,87800,Paid Search,FALSE
+937798,Diya,Jain,36,Female,24-05-2025,Silver,Surat,Gujarat,India,45200,Affiliate,FALSE
+938265,Priya,Chopra,39,Male,26-07-2024,Bronze,Bengaluru,Karnataka,India,49400,Organic Search,FALSE
+939026,Sara,Nair,34,Female,04-12-2025,Bronze,Kochi,Kerala,India,63500,Referral,FALSE
+939349,Sara,Banerjee,26,Male,10-03-2024,Bronze,Mumbai,Maharashtra,India,89300,Email,FALSE
+939766,Arjun,Menon,32,Male,16-11-2025,Silver,Lucknow,Uttar Pradesh,India,77200,Affiliate,FALSE
+939874,Rohan,Mehta,27,Male,08-05-2024,Bronze,Mumbai,Maharashtra,India,86500,Paid Search,FALSE
+940044,Priya,Saxena,39,Female,09-07-2025,Bronze,Indore,Madhya Pradesh,India,23800,Social Media,FALSE
+941964,Vivaan,Reddy,45,Female,16-02-2024,Bronze,Bengaluru,Karnataka,India,98100,Affiliate,FALSE
+942621,Rohan,Gupta,33,Female,06-01-2024,Silver,Bhopal,Madhya Pradesh,India,49900,Organic Search,FALSE
+944104,Neha,Rao,21,Male,05-09-2024,Bronze,Mumbai,Maharashtra,India,65700,Organic Search,FALSE
+945783,Neha,Kumar,18,Male,20-06-2025,Bronze,Bengaluru,Karnataka,India,48800,Organic Search,FALSE
+946242,Rohan,Gupta,18,Male,07-08-2024,Silver,Chennai,Tamil Nadu,India,71600,Organic Search,FALSE
+946244,Isha,Khanna,37,Male,09-12-2025,Bronze,Delhi,Delhi,India,52600,Paid Search,FALSE
+947217,Neha,Joshi,34,Female,10-12-2025,Bronze,Bengaluru,Karnataka,India,83900,Paid Search,FALSE
+947579,Sneha,Shah,33,Female,30-09-2024,Silver,Mumbai,Maharashtra,India,67700,Email,FALSE
+949262,Meera,Pillai,33,Female,22-12-2024,Bronze,Bengaluru,Karnataka,India,95600,Organic Search,FALSE
+949521,Aditya,Rao,31,Female,08-12-2025,Silver,Mumbai,Maharashtra,India,45600,Email,FALSE
+949856,Maya,Das,48,Female,08-06-2024,Silver,Chandigarh,Chandigarh,India,65800,Paid Search,FALSE
+950712,Rahul,Kumar,56,Female,28-03-2025,Silver,Mumbai,Maharashtra,India,32200,Referral,FALSE
+950849,Karan,Das,18,Male,19-07-2024,Silver,Bengaluru,Karnataka,India,104500,Referral,FALSE
+950921,Priya,Verma,31,Female,10-10-2025,Silver,Bengaluru,Karnataka,India,42000,Social Media,FALSE
+951611,Vivaan,Kumar,38,Male,10-09-2025,Bronze,Kolkata,West Bengal,India,27600,Social Media,FALSE
+952544,Reyansh,Verma,18,Male,14-01-2024,Bronze,Kolkata,West Bengal,India,49400,Referral,FALSE
+953957,Ananya,Nair,31,Female,13-05-2024,Silver,Mumbai,Maharashtra,India,96000,Referral,FALSE
+953964,Sana,Kapoor,39,Male,19-09-2025,Silver,Hyderabad,Telangana,India,77500,Referral,FALSE
+954862,Maya,Nair,55,Prefer not to say,05-04-2025,Silver,Mumbai,Maharashtra,India,55600,Social Media,FALSE
+956488,Aanya,Rao,49,Male,07-08-2024,Bronze,Ahmedabad,Gujarat,India,70300,Organic Search,FALSE
+956740,Arjun,Verma,30,Female,01-03-2025,Silver,Chennai,Tamil Nadu,India,89800,Referral,FALSE
+957716,Simran,Banerjee,36,Female,17-09-2024,Bronze,Pune,Maharashtra,India,62500,Organic Search,FALSE
+960170,Karan,Saxena,48,Female,08-04-2025,Bronze,Mumbai,Maharashtra,India,,Direct,TRUE
+962264,Aarav,Verma,46,Male,15-02-2025,Silver,Lucknow,Uttar Pradesh,India,57900,Paid Search,FALSE
+963510,Aanya,Sinha,39,Female,13-11-2025,Silver,Mumbai,Maharashtra,India,39400,Social Media,FALSE
+964912,Riya,Kumar,22,Male,18-05-2025,Bronze,Delhi,Delhi,India,63600,Direct,FALSE
+965732,Sana,Gupta,25,Female,20-03-2025,Bronze,Pune,Maharashtra,India,106100,Social Media,FALSE
+966121,Rohan,Singh,62,Male,09-08-2025,Bronze,Bengaluru,Karnataka,India,65600,Email,FALSE
+966122,Meera,Choudhary,22,Female,04-07-2025,Silver,Surat,Gujarat,India,68700,Email,FALSE
+966795,Diya,Malhotra,38,Female,03-10-2025,Bronze,Kolkata,West Bengal,India,65500,Organic Search,FALSE
+967102,Kiara,Nair,18,Male,15-11-2024,Silver,Noida,Uttar Pradesh,India,43200,Organic Search,FALSE
+967182,Vivaan,Menon,25,Female,02-11-2025,Silver,Mumbai,Maharashtra,India,96300,Referral,FALSE
+968559,Vivaan,Sethi,29,Male,30-08-2024,Bronze,Ahmedabad,Gujarat,India,25900,Paid Search,FALSE
+970553,Reyansh,Kapoor,25,Female,09-02-2025,Silver,Delhi,Delhi,India,44200,Social Media,FALSE
+971454,Sara,Shah,37,Female,24-01-2024,Bronze,Surat,Gujarat,India,58400,Social Media,FALSE
+971703,Neha,Malhotra,36,Female,12-04-2025,Bronze,Hyderabad,Telangana,India,52300,Referral,FALSE
+972762,Sneha,Sethi,23,Male,21-07-2024,Bronze,Mumbai,Maharashtra,India,52800,Referral,FALSE
+973551,Pooja,Singh,34,Male,02-05-2024,Bronze,Mumbai,Maharashtra,India,78100,Direct,FALSE
+973959,Avni,Pillai,36,Male,09-06-2024,Bronze,Delhi,Delhi,India,127500,Paid Search,TRUE
+974498,Vivaan,Iyer,41,Female,18-11-2024,Silver,Bengaluru,Karnataka,India,78000,Social Media,FALSE
+974518,Tara,Mehta,34,,22-01-2025,Silver,Mumbai,Maharashtra,India,46500,Paid Search,FALSE
+977147,Vivaan,Sharma,37,Female,26-12-2024,Bronze,Bengaluru,Karnataka,India,58200,Affiliate,FALSE
+979363,Nisha,Jain,31,Female,16-03-2025,Silver,Surat,Gujarat,India,114400,Paid Search,FALSE
+981217,Zoya,Reddy,42,Female,14-04-2025,Silver,Delhi,Delhi,India,85500,Paid Search,FALSE
+981552,Maya,Banerjee,27,Male,18-01-2025,Silver,Pune,Maharashtra,India,78700,Paid Search,FALSE
+982086,Neha,Menon,27,Male,12-04-2024,Silver,Chennai,Tamil Nadu,India,,Email,FALSE
+982501,Priya,Khanna,37,Male,09-02-2024,Bronze,Chandigarh,Chandigarh,India,76100,Social Media,FALSE
+985217,Vivaan,Sharma,32,Male,04-04-2025,Bronze,Bengaluru,Karnataka,India,55800,Organic Search,FALSE
+985670,Diya,Das,50,Male,09-04-2024,Silver,Lucknow,Uttar Pradesh,India,,Social Media,FALSE
+986247,Zoya,Jain,27,Female,07-12-2025,Silver,Bengaluru,Karnataka,India,22800,Paid Search,FALSE
+987344,Ananya,Iyer,40,Prefer not to say,07-11-2024,Bronze,Delhi,Delhi,India,53700,Paid Search,FALSE
+989045,Sana,Mehta,38,Female,09-08-2025,Silver,Ahmedabad,Gujarat,India,57800,Organic Search,FALSE
+989435,Arjun,Verma,24,Male,09-06-2025,Bronze,Delhi,Delhi,India,78900,Referral,FALSE
+989803,Kavya,Sharma,35,Male,22-12-2025,Silver,Pune,Maharashtra,India,45100,Email,FALSE
+990734,Isha,Menon,30,Female,05-10-2025,Bronze,Lucknow,Uttar Pradesh,India,77100,Social Media,FALSE
+991042,Neha,Kumar,38,Prefer not to say,22-08-2025,Silver,Delhi,Delhi,India,109600,Organic Search,TRUE
+992100,Meera,Mehta,43,Male,22-03-2024,Silver,Delhi,Delhi,India,22000,Email,FALSE
+999413,Isha,Verma,33,Male,27-06-2025,Silver,Delhi,Delhi,India,63400,Affiliate,FALSE

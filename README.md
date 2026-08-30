@@ -29,3 +29,16 @@ This project uses PostgreSQL to analyze customer and order data for an e-commerc
 4. Maharashtra was the leading customer state by gross revenue at approximately ₹6.97M.
 5. November 2025 was the strongest month for delivered sales at approximately ₹1.43M.
 6. 764 of 1,000 customers placed at least one order, leaving an opportunity to activate customers who have not purchased yet.
+
+**Key Findings**
+**1. Loyalty program and retention**
+Customers in higher loyalty tiers place more repeat orders. Gold customers have the highest retention rate at 79.2%, followed by Silver at 63.9% and Bronze at 50.8%.
+This suggests that higher loyalty status is associated with stronger customer retention. However, it does not prove that the loyalty program directly caused the improvement.
+
+**2. High-value customers at risk**
+Out of 250 high-value customers, 55 have not placed a delivered order in more than 90 days. This means 22% of the company’s high-value customers are at risk of becoming inactive.
+These customers represent approximately 2.26 million in previous delivered spending, so they should be prioritized for personalized offers or win-back campaigns.
+
+**3. Underperforming fulfilment combinations**
+North–Same Day is the weakest fulfilment combination. It has the highest failure rate at 17.2% and the lowest delivery rate at 55.2%.
+South–Same Day, East–Pickup Point, and North–Pickup Point also have relatively high cancellation and return rates. The company should investigate these warehouse and shipping combinations to identify operational problems.

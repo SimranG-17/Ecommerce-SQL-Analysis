@@ -1,3 +1,4 @@
+--STEP 7 Business Questions
 --Does the loyalty program improve customer retention?
 WITH customer_orders AS (
     SELECT c.customer_id, c.loyalty_tier,

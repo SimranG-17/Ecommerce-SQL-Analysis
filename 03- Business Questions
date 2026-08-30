@@ -1,5 +1,6 @@
 --STEP 7 Business Questions
---Does the loyalty program improve customer retention?
+
+--7.1 Does the loyalty program improve customer retention?
 WITH customer_orders AS (
     SELECT c.customer_id, c.loyalty_tier,
         COUNT(o.order_id) AS delivered_orders
@@ -21,7 +22,7 @@ FROM customer_orders
 GROUP BY loyalty_tier
 ORDER BY retention_rate DESC;
 
---2. Which high-value customers are at risk?
+--7.2  Which high-value customers are at risk?
 --This defines high-value customers as the top 25% by delivered spending and at-risk customers as those inactive for more than 90 days.
 
 WITH customer_summary AS (
@@ -50,7 +51,8 @@ WHERE spending_group = 1
   AND last_order_date < DATE '2025-10-02'
 ORDER BY total_spend DESC;
 
---3. Which fulfilment combinations are underperforming?
+--7.3 Which fulfilment combinations are underperforming?
+
 SELECT
     warehouse_region, shipping_method,
     COUNT(*) AS total_orders,
